@@ -1,8 +1,7 @@
 ### Startups
-  - [Clarifai](http://www.clarifai.com/)
-  - 
+  - 机器学习、深度学习、计算机视觉、大数据创业公司(http://www.zhizhihu.com/html/y2014/4743.html)
 
-### Modelling Sentences
+### Sentence Modelling
   - Kalchbrenner, Nal, Edward Grefenstette, and Phil Blunsom. "A convolutional neural network for modelling sentences." arXiv preprint arXiv:1404.2188 (2014).
   - Kim, Yoon. "Convolutional neural networks for sentence classification." arXiv preprint arXiv:1408.5882 (2014).
   - Le, Quoc V., and Tomas Mikolov. "Distributed representations of sentences and documents." arXiv preprint arXiv:1405.4053 (2014).
