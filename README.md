@@ -1,5 +1,5 @@
 ### Startups
-  - 机器学习、深度学习、计算机视觉、大数据创业公司(http://www.zhizhihu.com/html/y2014/4743.html)
+  - [机器学习、深度学习、计算机视觉、大数据创业公司](http://www.zhizhihu.com/html/y2014/4743.html)
 
 ### Sentence Modelling
   - Kalchbrenner, Nal, Edward Grefenstette, and Phil Blunsom. "A convolutional neural network for modelling sentences." arXiv preprint arXiv:1404.2188 (2014).
