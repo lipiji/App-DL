@@ -11,3 +11,7 @@
   - Denil, Misha, Alban Demiraj, and Nando de Freitas. "Extraction of Salient Sentences from Labelled Documents." arXiv preprint arXiv:1412.6815 (2014).
   - Cao, Ziqiang, Furu Wei, Li Dong, Sujian Li, and Ming Zhou. "Ranking with Recursive Neural Networks and Its Application to Multi-document Summarization." (2015).
   - Kågebäck, Mikael, et al. "Extractive summarization using continuous vector space models." Proceedings of the 2nd Workshop on Continuous Vector Space Models and their Compositionality (CVSC)@ EACL. 2014.
+
+### Question Answering
+  - Iyyer, Mohit, Jordan Boyd-Graber, Leonardo Claudino, Richard Socher, and Hal Daumé III. "A neural network for factoid question answering over paragraphs." In Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing (EMNLP), pp. 633-644. 2014.
+  - Yu, Lei, Karl Moritz Hermann, Phil Blunsom, and Stephen Pulman. "Deep learning for answer sentence selection." arXiv preprint arXiv:1412.1632 (2014).
