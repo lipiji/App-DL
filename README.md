@@ -2,15 +2,16 @@
   - [机器学习、深度学习、计算机视觉、大数据创业公司](http://www.zhizhihu.com/html/y2014/4743.html)
 
 ### Sentence Modelling
-  - Kalchbrenner, Nal, Edward Grefenstette, and Phil Blunsom. "A convolutional neural network for modelling sentences." arXiv preprint arXiv:1404.2188 (2014).
-  - Kim, Yoon. "Convolutional neural networks for sentence classification." arXiv preprint arXiv:1408.5882 (2014).
-  - Le, Quoc V., and Tomas Mikolov. "Distributed representations of sentences and documents." arXiv preprint arXiv:1405.4053 (2014).
+  - Kalchbrenner, Nal, Edward Grefenstette, and Phil Blunsom. "A convolutional neural network for modelling sentences." arXiv preprint arXiv:1404.2188 (2014).[[PDF][Code]](http://www.nal.co/DCNN)
+  - Kim, Yoon. "[Convolutional neural networks for sentence classification](http://arxiv.org/abs/1408.5882)." arXiv preprint arXiv:1408.5882 (2014).
+  - Le, Quoc V., and Tomas Mikolov. "[Distributed representations of sentences and documents](http://arxiv.org/abs/1405.4053)." arXiv preprint arXiv:1405.4053 (2014).
 
 ### Summarization
-  - Liu, Yan, Sheng-hua Zhong, and Wenjie Li. "Query-Oriented Multi-Document Summarization via Unsupervised Deep Learning." AAAI. 2012.
-  - Denil, Misha, Alban Demiraj, and Nando de Freitas. "Extraction of Salient Sentences from Labelled Documents." arXiv preprint arXiv:1412.6815 (2014).
-  - Cao, Ziqiang, Furu Wei, Li Dong, Sujian Li, and Ming Zhou. "Ranking with Recursive Neural Networks and Its Application to Multi-document Summarization." (2015).
-  - Kågebäck, Mikael, et al. "Extractive summarization using continuous vector space models." Proceedings of the 2nd Workshop on Continuous Vector Space Models and their Compositionality (CVSC)@ EACL. 2014.
+  - Liu, Yan, Sheng-hua Zhong, and Wenjie Li. "[Query-Oriented Multi-Document Summarization via Unsupervised Deep Learning](http://www.aaai.org/ocs/index.php/AAAI/AAAI12/paper/view/5058/5322)." AAAI. 2012.
+  - Denil, Misha, Alban Demiraj, and Nando de Freitas. "[Extraction of Salient Sentences from Labelled Documents](http://arxiv.org/abs/1412.6815)." arXiv preprint arXiv:1412.6815 (2014).
+  - Cao, Ziqiang, Furu Wei, Li Dong, Sujian Li, and Ming Zhou. "[Ranking with Recursive Neural Networks and Its Application to Multi-document Summarization](http://gana.nlsde.buaa.edu.cn/~lidong/aaai15-rec_sentence_ranking.pdf)." (AAAI'2015).
+  - Kågebäck, Mikael, et al. "[Extractive summarization using continuous vector space models](http://www.aclweb.org/anthology/W14-1504)." Proceedings of the 2nd Workshop on Continuous Vector Space Models and their Compositionality (CVSC)@ EACL. 2014.
+  - Denil, Misha, Alban Demiraj, Nal Kalchbrenner, Phil Blunsom, and Nando de Freitas. "[Modelling, Visualising and Summarising Documents with a Single Convolutional Neural Network](http://arxiv.org/abs/1406.3830)." arXiv preprint arXiv:1406.3830 (2014).
 
 ### Question Answering
   - Iyyer, Mohit, Jordan Boyd-Graber, Leonardo Claudino, Richard Socher, and Hal Daumé III. "A neural network for factoid question answering over paragraphs." In Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing (EMNLP), pp. 633-644. 2014.
