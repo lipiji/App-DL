@@ -17,3 +17,9 @@
 ### Question Answering
   - Iyyer, Mohit, Jordan Boyd-Graber, Leonardo Claudino, Richard Socher, and Hal Daumé III. "A neural network for factoid question answering over paragraphs." In Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing (EMNLP), pp. 633-644. 2014.
   - Yu, Lei, Karl Moritz Hermann, Phil Blunsom, and Stephen Pulman. "Deep learning for answer sentence selection." arXiv preprint arXiv:1412.1632 (2014).
+
+### Stock Prediction
+  - Xiao Ding, Yue Zhang, Ting Liu, Junwen Duan. "Deep Learning for Event-Driven Stock Prediction". IJCAI 2015.
+  - Si, Jianfeng, Arjun Mukherjee, Bing Liu, Sinno Jialin Pan, Qing Li, and Huayi Li. "[Exploiting Social Relations and Sentiment for Stock Prediction](http://www.aclweb.org/anthology/D14-1120)." EMNLP 2014.
+  - Ding, Xiao, Yue Zhang, Ting Liu, and Junwen Duan. "[Using Structured Events to Predict Stock Price Movement: An Empirical Investigation](http://anthology.aclweb.org/D/D14/D14-1148.pdf)." EMNLP 2014.
+  - Bollen, Johan, Huina Mao, and Xiaojun Zeng. "[Twitter mood predicts the stock market](http://arxiv.org/abs/1010.3003)." Journal of Computational Science 2, no. 1 (2011): 1-8.
