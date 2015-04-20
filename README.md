@@ -7,6 +7,7 @@
   - Le, Quoc V., and Tomas Mikolov. "[Distributed representations of sentences and documents](http://arxiv.org/abs/1405.4053)." arXiv preprint arXiv:1405.4053 (2014).
 
 ### Summarization
+  - King, Ben, Rahul Jha, Tyler Johnson, Vaishnavi Sundararajan, and Clayton Scott. "[Experiments in Automatic Text Summarization Using Deep Neural Networks](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.459.8775&rep=rep1&type=pdf)." Machine Learning (2011).
   - Liu, Yan, Sheng-hua Zhong, and Wenjie Li. "[Query-Oriented Multi-Document Summarization via Unsupervised Deep Learning](http://www.aaai.org/ocs/index.php/AAAI/AAAI12/paper/view/5058/5322)." AAAI. 2012.
   - PadmaPriya, G., and K. Duraiswamy. "[An Approach For Text Summarization Using Deep Learning Algorithm](http://thescipub.com/PDF/jcssp.2014.1.9.pdf)." Journal of Computer Science 10, no. 1 (2013): 1-9.
   - Denil, Misha, Alban Demiraj, and Nando de Freitas. "[Extraction of Salient Sentences from Labelled Documents](http://arxiv.org/abs/1412.6815)." arXiv preprint arXiv:1412.6815 (2014).
