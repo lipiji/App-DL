@@ -19,8 +19,8 @@
 
 
 ### Question Answering
-  - Iyyer, Mohit, Jordan Boyd-Graber, Leonardo Claudino, Richard Socher, and Hal Daumé III. "A neural network for factoid question answering over paragraphs." In Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing (EMNLP), pp. 633-644. 2014.
-  - Yu, Lei, Karl Moritz Hermann, Phil Blunsom, and Stephen Pulman. "Deep learning for answer sentence selection." arXiv preprint arXiv:1412.1632 (2014).
+  - Iyyer, Mohit, Jordan Boyd-Graber, Leonardo Claudino, Richard Socher, and Hal Daumé III. "[A neural network for factoid question answering over paragraphs](https://cs.umd.edu/~miyyer/pubs/2014_qb_rnn.pdf)." In Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing (EMNLP), pp. 633-644. 2014.
+  - Yu, Lei, Karl Moritz Hermann, Phil Blunsom, and Stephen Pulman. "[Deep learning for answer sentence selection](http://arxiv.org/abs/1412.1632)." arXiv preprint arXiv:1412.1632 (2014).
 
 ### Stock Prediction
   - Xiao Ding, Yue Zhang, Ting Liu, Junwen Duan. "Deep Learning for Event-Driven Stock Prediction". IJCAI 2015.
