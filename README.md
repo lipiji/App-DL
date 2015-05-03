@@ -16,9 +16,6 @@
   - Cao, Ziqiang, Furu Wei, Li Dong, Sujian Li, and Ming Zhou. "[Ranking with Recursive Neural Networks and Its Application to Multi-document Summarization](http://gana.nlsde.buaa.edu.cn/~lidong/aaai15-rec_sentence_ranking.pdf)." (AAAI'2015).
   - Fei Liu, Jeffrey Flanigan, Sam Thomson, Norman Sadeh, and Noah A. Smith. "[Toward Abstractive Summarization Using Semantic Representations](http://www.cs.cmu.edu/~nasmith/papers/liu+flanigan+thomson+sadeh+smith.naacl15.pdf)." NAACL 2015
   - Wenpeng Yin， Yulong Pei. "Optimizing Sentence Modeling and Selection for Document Summarization." IJCAI 2015
-  
-  
-
   - He, Zhanying, Chun Chen, Jiajun Bu, Can Wang, Lijun Zhang, Deng Cai, and Xiaofei He. "[Document Summarization Based on Data Reconstruction](http://cs.nju.edu.cn/zlj/pdf/AAAI-2012-He.pdf)." In AAAI. 2012.
   - Liu, He, Hongliang Yu, and Zhi-Hong Deng. "[Multi-Document Summarization Based on Two-Level Sparse Representation Model](http://www.cis.pku.edu.cn/faculty/system/dengzhihong/papers/AAAI%202015_Multi-Document%20Summarization%20Based%20on%20Two-Level%20Sparse%20Representation%20Model.pdf)." In Twenty-Ninth AAAI Conference on Artificial Intelligence. 2015.
   - Jin-ge Yao, Xiaojun Wan, Jianguo Xiao. "[Compressive Document Summarization via Sparse Optimization]()." IJCAI 2015
