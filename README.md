@@ -5,6 +5,7 @@
   - Kalchbrenner, Nal, Edward Grefenstette, and Phil Blunsom. "A convolutional neural network for modelling sentences." arXiv preprint arXiv:1404.2188 (2014).[[PDF][Code]](http://www.nal.co/DCNN)
   - Kim, Yoon. "[Convolutional neural networks for sentence classification](http://arxiv.org/abs/1408.5882)." arXiv preprint arXiv:1408.5882 (2014).
   - Le, Quoc V., and Tomas Mikolov. "[Distributed representations of sentences and documents](http://arxiv.org/abs/1405.4053)." arXiv preprint arXiv:1405.4053 (2014).
+  - Yin, Wenpeng, Hinrich Schütze, Bing Xiang, and Bowen Zhou. "[ABCNN: Attention-Based Convolutional Neural Network for Modeling Sentence Pairs](http://arxiv.org/abs/1512.05193)." arXiv preprint arXiv:1512.05193 (2015).
 
 ### Summarization
   - King, Ben, Rahul Jha, Tyler Johnson, Vaishnavi Sundararajan, and Clayton Scott. "[Experiments in Automatic Text Summarization Using Deep Neural Networks](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.459.8775&rep=rep1&type=pdf)." Machine Learning (2011).
@@ -32,3 +33,8 @@
   - Si, Jianfeng, Arjun Mukherjee, Bing Liu, Sinno Jialin Pan, Qing Li, and Huayi Li. "[Exploiting Social Relations and Sentiment for Stock Prediction](http://www.aclweb.org/anthology/D14-1120)." EMNLP 2014.
   - Ding, Xiao, Yue Zhang, Ting Liu, and Junwen Duan. "[Using Structured Events to Predict Stock Price Movement: An Empirical Investigation](http://anthology.aclweb.org/D/D14/D14-1148.pdf)." EMNLP 2014.
   - Bollen, Johan, Huina Mao, and Xiaojun Zeng. "[Twitter mood predicts the stock market](http://arxiv.org/abs/1010.3003)." Journal of Computational Science 2, no. 1 (2011): 1-8.
+
+### GO
+ - Silver, David, Aja Huang, Chris J. Maddison, Arthur Guez, Laurent Sifre, George van den Driessche, Julian Schrittwieser et al. "[Mastering the game of Go with deep neural networks and tree search](http://www.nature.com/nature/journal/v529/n7587/full/nature16961.html)." Nature 529, no. 7587 (2016): 484-489.
+ - Tian, Yuandong, and Yan Zhu. "[Better Computer Go Player with Neural Network and Long-term Prediction](http://arxiv.org/abs/1511.06410)." arXiv preprint arXiv:1511.06410 (2015).
+ - 
