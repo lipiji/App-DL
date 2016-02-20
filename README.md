@@ -2,7 +2,7 @@
   - [机器学习、深度学习、计算机视觉、大数据创业公司 - Startups in AI](https://github.com/lipiji/AIStartups)
 
 ### Sentence Modelling
-  - Kalchbrenner, Nal, Edward Grefenstette, and Phil Blunsom. "A convolutional neural network for modelling sentences." arXiv preprint arXiv:1404.2188 (2014).[[PDF][Code]](http://www.nal.co/DCNN)
+  - Kalchbrenner, Nal, Edward Grefenstette, and Phil Blunsom. "[A convolutional neural network for modelling sentences](http://arxiv.org/abs/1404.2188)." arXiv preprint arXiv:1404.2188 (2014).
   - Kim, Yoon. "[Convolutional neural networks for sentence classification](http://arxiv.org/abs/1408.5882)." arXiv preprint arXiv:1408.5882 (2014).
   - Le, Quoc V., and Tomas Mikolov. "[Distributed representations of sentences and documents](http://arxiv.org/abs/1405.4053)." arXiv preprint arXiv:1405.4053 (2014).
   - Yin, Wenpeng, Hinrich Schütze, Bing Xiang, and Bowen Zhou. "[ABCNN: Attention-Based Convolutional Neural Network for Modeling Sentence Pairs](http://arxiv.org/abs/1512.05193)." arXiv preprint arXiv:1512.05193 (2015).
