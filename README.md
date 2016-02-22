@@ -22,6 +22,7 @@
   - Jin-ge Yao, Xiaojun Wan, Jianguo Xiao. "[Compressive Document Summarization via Sparse Optimization]()." IJCAI 2015
   - Piji Li, Lidong Bing, Wai Lam, Hang Li, and Yi Liao. "[Reader-Aware Multi-Document Summarization via Sparse Coding](http://arxiv.org/abs/1504.07324)." IJCAI 2015.
   - Alexander M. Rush, Sumit Chopra, Jason Weston. "[A Neural Attention Model for Abstractive Sentence Summarization](http://arxiv.org/abs/1509.00685)." EMNLP 2015.
+  - [Sequence-to-Sequence RNNs for Text Summarization](https://scirate.com/arxiv/1602.06023)
 
 
 ### Question Answering
@@ -37,4 +38,5 @@
 ### GO
  - Silver, David, Aja Huang, Chris J. Maddison, Arthur Guez, Laurent Sifre, George van den Driessche, Julian Schrittwieser et al. "[Mastering the game of Go with deep neural networks and tree search](http://www.nature.com/nature/journal/v529/n7587/full/nature16961.html)." Nature 529, no. 7587 (2016): 484-489.
  - Tian, Yuandong, and Yan Zhu. "[Better Computer Go Player with Neural Network and Long-term Prediction](http://arxiv.org/abs/1511.06410)." arXiv preprint arXiv:1511.06410 (2015).
- - 
+
+
