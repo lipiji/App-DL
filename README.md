@@ -21,8 +21,8 @@
   - Liu, He, Hongliang Yu, and Zhi-Hong Deng. "[Multi-Document Summarization Based on Two-Level Sparse Representation Model](http://www.cis.pku.edu.cn/faculty/system/dengzhihong/papers/AAAI%202015_Multi-Document%20Summarization%20Based%20on%20Two-Level%20Sparse%20Representation%20Model.pdf)." In Twenty-Ninth AAAI Conference on Artificial Intelligence. 2015.
   - Jin-ge Yao, Xiaojun Wan, Jianguo Xiao. "[Compressive Document Summarization via Sparse Optimization]()." IJCAI 2015
   - Piji Li, Lidong Bing, Wai Lam, Hang Li, and Yi Liao. "[Reader-Aware Multi-Document Summarization via Sparse Coding](http://arxiv.org/abs/1504.07324)." IJCAI 2015.
-  - Alexander M. Rush, Sumit Chopra, Jason Weston. "[A Neural Attention Model for Abstractive Sentence Summarization](http://arxiv.org/abs/1509.00685)." EMNLP 2015.
-  - [Sequence-to-Sequence RNNs for Text Summarization](https://scirate.com/arxiv/1602.06023)
+  - Alexander M. Rush, Sumit Chopra, Jason Weston. "[A Neural Attention Model for Abstractive Sentence Summarization](http://arxiv.org/abs/1509.00685)." EMNLP 2015. [sentence compression]
+  - [Sequence-to-Sequence RNNs for Text Summarization](https://scirate.com/arxiv/1602.06023) [sentence compression]
 
 
 ### Question Answering
