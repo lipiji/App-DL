@@ -39,4 +39,6 @@
  - Silver, David, Aja Huang, Chris J. Maddison, Arthur Guez, Laurent Sifre, George van den Driessche, Julian Schrittwieser et al. "[Mastering the game of Go with deep neural networks and tree search](http://www.nature.com/nature/journal/v529/n7587/full/nature16961.html)." Nature 529, no. 7587 (2016): 484-489.
  - Tian, Yuandong, and Yan Zhu. "[Better Computer Go Player with Neural Network and Long-term Prediction](http://arxiv.org/abs/1511.06410)." arXiv preprint arXiv:1511.06410 (2015).
 
+### Music Generation
+ - [Using machine learning to generate music](http://www.datasciencecentral.com/profiles/blogs/using-machine-learning-to-generate-music)
 
