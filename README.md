@@ -26,9 +26,8 @@
   - Sumit Chopra, Alexander M. Rush and Michael Auli. "Abstractive Summarization with Attentive Recurrent Neural Networks" NAACL 2016.
 
 
-### Question Answering
-  - Iyyer, Mohit, Jordan Boyd-Graber, Leonardo Claudino, Richard Socher, and Hal Daumé III. "[A neural network for factoid question answering over paragraphs](https://cs.umd.edu/~miyyer/pubs/2014_qb_rnn.pdf)." In Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing (EMNLP), pp. 633-644. 2014.
-  - Yu, Lei, Karl Moritz Hermann, Phil Blunsom, and Stephen Pulman. "[Deep learning for answer sentence selection](http://arxiv.org/abs/1412.1632)." arXiv preprint arXiv:1412.1632 (2014).
+### Reasoning
+  - Peng, Baolin, Zhengdong Lu, Hang Li, and Kam-Fai Wong. "[Towards Neural Network-based Reasoning](http://arxiv.org/abs/1508.05508)." arXiv preprint arXiv:1508.05508 (2015).
 
 ### Stock Prediction
   - Xiao Ding, Yue Zhang, Ting Liu, Junwen Duan. "Deep Learning for Event-Driven Stock Prediction". IJCAI 2015.
