@@ -25,7 +25,7 @@
   - Alexander M. Rush, Sumit Chopra, Jason Weston. "[A Neural Attention Model for Abstractive Sentence Summarization](http://arxiv.org/abs/1509.00685)." EMNLP 2015. [sentence compression]
   - Nallapati, Ramesh, Bing Xiang, and Bowen Zhou. "[Sequence-to-Sequence RNNs for Text Summarization](https://scirate.com/arxiv/1602.06023)." arXiv preprint arXiv:1602.06023 (2016). [sentence compression]
   - Sumit Chopra, Alexander M. Rush and Michael Auli. "Abstractive Summarization with Attentive Recurrent Neural Networks" NAACL 2016.
-  - Jiatao Gu, Zhengdong Lu, Hang Li, Victor O.K. Li. "[Incorporating Copying Mechanism in Sequence-to-Sequence Learning](http://arxiv.org/abs/1603.06393)."  arXiv:1603.06393.
+  - Jiatao Gu, Zhengdong Lu, Hang Li, Victor O.K. Li. "[Incorporating Copying Mechanism in Sequence-to-Sequence Learning](http://arxiv.org/abs/1603.06393)."  arXiv:1603.06393. (2016)
 
 
 ### Reasoning
