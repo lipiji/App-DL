@@ -1,12 +1,6 @@
 ### Startups
   - [机器学习、深度学习、计算机视觉、大数据创业公司 - Startups in AI](https://github.com/lipiji/AIStartups)
 
-### Sentence Modelling
-  - Kalchbrenner, Nal, Edward Grefenstette, and Phil Blunsom. "[A convolutional neural network for modelling sentences](http://arxiv.org/abs/1404.2188)." arXiv preprint arXiv:1404.2188 (2014).
-  - Kim, Yoon. "[Convolutional neural networks for sentence classification](http://arxiv.org/abs/1408.5882)." arXiv preprint arXiv:1408.5882 (2014).
-  - Le, Quoc V., and Tomas Mikolov. "[Distributed representations of sentences and documents](http://arxiv.org/abs/1405.4053)." arXiv preprint arXiv:1405.4053 (2014).
-  - Yin, Wenpeng, Hinrich Schütze, Bing Xiang, and Bowen Zhou. "[ABCNN: Attention-Based Convolutional Neural Network for Modeling Sentence Pairs](http://arxiv.org/abs/1512.05193)." arXiv preprint arXiv:1512.05193 (2015).
-
 ### Summarization
   - King, Ben, Rahul Jha, Tyler Johnson, Vaishnavi Sundararajan, and Clayton Scott. "[Experiments in Automatic Text Summarization Using Deep Neural Networks](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.459.8775&rep=rep1&type=pdf)." Machine Learning (2011).
   - Liu, Yan, Sheng-hua Zhong, and Wenjie Li. "[Query-Oriented Multi-Document Summarization via Unsupervised Deep Learning](http://www.aaai.org/ocs/index.php/AAAI/AAAI12/paper/view/5058/5322)." AAAI. 2012.
@@ -27,6 +21,11 @@
   - Sumit Chopra, Alexander M. Rush and Michael Auli. "Abstractive Summarization with Attentive Recurrent Neural Networks" NAACL 2016.
   - Jiatao Gu, Zhengdong Lu, Hang Li, Victor O.K. Li. "[Incorporating Copying Mechanism in Sequence-to-Sequence Learning](http://arxiv.org/abs/1603.06393)."  arXiv:1603.06393. (2016)
 
+### Sentence Modelling
+  - Kalchbrenner, Nal, Edward Grefenstette, and Phil Blunsom. "[A convolutional neural network for modelling sentences](http://arxiv.org/abs/1404.2188)." arXiv preprint arXiv:1404.2188 (2014).
+  - Kim, Yoon. "[Convolutional neural networks for sentence classification](http://arxiv.org/abs/1408.5882)." arXiv preprint arXiv:1408.5882 (2014).
+  - Le, Quoc V., and Tomas Mikolov. "[Distributed representations of sentences and documents](http://arxiv.org/abs/1405.4053)." arXiv preprint arXiv:1405.4053 (2014).
+  - Yin, Wenpeng, Hinrich Schütze, Bing Xiang, and Bowen Zhou. "[ABCNN: Attention-Based Convolutional Neural Network for Modeling Sentence Pairs](http://arxiv.org/abs/1512.05193)." arXiv preprint arXiv:1512.05193 (2015).
 
 ### Reasoning
   - Peng, Baolin, Zhengdong Lu, Hang Li, and Kam-Fai Wong. "[Towards Neural Network-based Reasoning](http://arxiv.org/abs/1508.05508)." arXiv preprint arXiv:1508.05508 (2015).
