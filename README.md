@@ -20,6 +20,7 @@
   - Nallapati, Ramesh, Bing Xiang, and Bowen Zhou. "[Sequence-to-Sequence RNNs for Text Summarization](https://scirate.com/arxiv/1602.06023)." arXiv preprint arXiv:1602.06023 (2016). [sentence compression]
   - Sumit Chopra, Alexander M. Rush and Michael Auli. "Abstractive Summarization with Attentive Recurrent Neural Networks" NAACL 2016.
   - Jiatao Gu, Zhengdong Lu, Hang Li, Victor O.K. Li. "[Incorporating Copying Mechanism in Sequence-to-Sequence Learning](http://arxiv.org/abs/1603.06393)."  arXiv:1603.06393. (2016)
+  - Jianpeng Cheng, Mirella Lapata. "[Neural Summarization by Extracting Sentences and Words]()".  arXiv:1603.07252. (2016)
 
 ### Sentence Modelling
   - Kalchbrenner, Nal, Edward Grefenstette, and Phil Blunsom. "[A convolutional neural network for modelling sentences](http://arxiv.org/abs/1404.2188)." arXiv preprint arXiv:1404.2188 (2014).
