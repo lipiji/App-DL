@@ -40,6 +40,7 @@
   - Si, Jianfeng, Arjun Mukherjee, Bing Liu, Sinno Jialin Pan, Qing Li, and Huayi Li. "[Exploiting Social Relations and Sentiment for Stock Prediction](http://www.aclweb.org/anthology/D14-1120)." EMNLP 2014.
   - Ding, Xiao, Yue Zhang, Ting Liu, and Junwen Duan. "[Using Structured Events to Predict Stock Price Movement: An Empirical Investigation](http://anthology.aclweb.org/D/D14/D14-1148.pdf)." EMNLP 2014.
   - Bollen, Johan, Huina Mao, and Xiaojun Zeng. "[Twitter mood predicts the stock market](http://arxiv.org/abs/1010.3003)." Journal of Computational Science 2, no. 1 (2011): 1-8.
+  - Hengjian Jia. "[Investigation Into The Effectiveness Of Long Short Term Memory Networks For Stock Price Prediction](http://arxiv.org/abs/1603.07893)." arXiv:1603.07893. (2016)
 
 ### GO
  - Silver, David, Aja Huang, Chris J. Maddison, Arthur Guez, Laurent Sifre, George van den Driessche, Julian Schrittwieser et al. "[Mastering the game of Go with deep neural networks and tree search](http://www.nature.com/nature/journal/v529/n7587/full/nature16961.html)." Nature 529, no. 7587 (2016): 484-489.
