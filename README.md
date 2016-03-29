@@ -47,4 +47,7 @@
 
 ### Music Generation
  - [Using machine learning to generate music](http://www.datasciencecentral.com/profiles/blogs/using-machine-learning-to-generate-music)
+ 
+### Computational Biology
+ - [Awesome DeepBio](https://github.com/gokceneraslan/awesome-deepbio) by Gökçen Eraslan
 
