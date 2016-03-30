@@ -52,3 +52,6 @@
 ### Computational Biology
  - [Awesome DeepBio](https://github.com/gokceneraslan/awesome-deepbio) by Gökçen Eraslan
 
+### Neural Structures
+ - Courbariaux, Matthieu, and Yoshua Bengio. "[Binarynet: Training deep neural networks with weights and activations constrained to+ 1 or-1](http://arxiv.org/abs/1602.02830)." arXiv preprint arXiv:1602.02830 (2016). 
+
