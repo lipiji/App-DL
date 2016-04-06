@@ -56,5 +56,6 @@
  - [Awesome DeepBio](https://github.com/gokceneraslan/awesome-deepbio) by Gökçen Eraslan
 
 ### Neural Structures
+ - He, Kaiming, Xiangyu Zhang, Shaoqing Ren, and Jian Sun. "[Deep Residual Learning for Image Recognition](http://arxiv.org/abs/1512.03385)." arXiv preprint arXiv:1512.03385 (2015).
  - Courbariaux, Matthieu, and Yoshua Bengio. "[Binarynet: Training deep neural networks with weights and activations constrained to+ 1 or-1](http://arxiv.org/abs/1602.02830)." arXiv preprint arXiv:1602.02830 (2016). 
-
+ - Srivastava, Rupesh Kumar, Klaus Greff, and Jürgen Schmidhuber. "[Highway networks](http://arxiv.org/abs/1505.00387)." arXiv preprint arXiv:1505.00387 (2015).
