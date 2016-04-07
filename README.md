@@ -60,4 +60,5 @@
  - Srivastava, Rupesh K., Klaus Greff, and Jürgen Schmidhuber. "[Training very deep networks](http://arxiv.org/abs/1507.06228)." In Advances in Neural Information Processing Systems, pp. 2368-2376. 2015.
  - He, Kaiming, Xiangyu Zhang, Shaoqing Ren, and Jian Sun. "[Deep Residual Learning for Image Recognition](http://arxiv.org/abs/1512.03385)." arXiv preprint arXiv:1512.03385 (2015).
  - Courbariaux, Matthieu, and Yoshua Bengio. "[Binarynet: Training deep neural networks with weights and activations constrained to+ 1 or-1](http://arxiv.org/abs/1602.02830)." arXiv preprint arXiv:1602.02830 (2016). 
+ - Jiatao Gu, Zhengdong Lu, Hang Li, Victor O.K. Li. "[Incorporating Copying Mechanism in Sequence-to-Sequence Learning](http://arxiv.org/abs/1603.06393)."  arXiv:1603.06393. (2016)
 
