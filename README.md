@@ -20,7 +20,7 @@
   - Lopyrev, Konstantin. "[Generating News Headlines with Recurrent Neural Networks](http://arxiv.org/abs/1512.01712)." arXiv preprint arXiv:1512.01712 (2015). [The first paragraph as document.]
   - Alexander M. Rush, Sumit Chopra, Jason Weston. "[A Neural Attention Model for Abstractive Sentence Summarization](http://arxiv.org/abs/1509.00685)." EMNLP 2015. [sentence compression]
   - Nallapati, Ramesh, Bing Xiang, and Bowen Zhou. "[Sequence-to-Sequence RNNs for Text Summarization](https://scirate.com/arxiv/1602.06023)." arXiv preprint arXiv:1602.06023 (2016). [sentence compression]
-  - Sumit Chopra, Alexander M. Rush and Michael Auli. "Abstractive Summarization with Attentive Recurrent Neural Networks" NAACL 2016.
+  - Sumit Chopra, Alexander M. Rush and Michael Auli. "[Abstractive Summarization with Attentive Recurrent Neural Networks](http://harvardnlp.github.io/papers/naacl16_summary.pdf)" NAACL 2016.
   - Jiatao Gu, Zhengdong Lu, Hang Li, Victor O.K. Li. "[Incorporating Copying Mechanism in Sequence-to-Sequence Learning](http://arxiv.org/abs/1603.06393)."  arXiv:1603.06393. (2016)
   - Jianpeng Cheng, Mirella Lapata. "[Neural Summarization by Extracting Sentences and Words](http://arxiv.org/abs/1603.07252)".  arXiv:1603.07252. (2016)
   - Ziqiang Cao, Wenjie Li, Sujian Li, Furu Wei. "[AttSum: Joint Learning of Focusing and Summarization with Neural Attention](http://arxiv.org/abs/1604.00125)".  arXiv:1604.00125 (2016)
