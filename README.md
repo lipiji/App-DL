@@ -25,11 +25,11 @@
   - Jianpeng Cheng, Mirella Lapata. "[Neural Summarization by Extracting Sentences and Words](http://arxiv.org/abs/1603.07252)".  arXiv:1603.07252. (2016)
   - Ziqiang Cao, Wenjie Li, Sujian Li, Furu Wei. "[AttSum: Joint Learning of Focusing and Summarization with Neural Attention](http://arxiv.org/abs/1604.00125)".  arXiv:1604.00125 (2016)
   - Ayana, Shiqi Shen, Zhiyuan Liu, Maosong Sun。 "[Neural Headline Generation with Minimum Risk Training](http://arxiv.org/abs/1604.01904)". arXiv:1604.01904 (2016)
+  - Qian Chen, Xiaodan Zhu, Zhenhua Ling, Si Wei and Hui Jiang. "[A Neural Network for Document Summarization](http://ijcai-16.org/index.php/welcome/view/accepted_papers)." IJCAI 2016.
 
 ### Opinion Summarization
   - Wu, Haibing, Yiwei Gu, Shangdi Sun, and Xiaodong Gu. "[Aspect-based Opinion Summarization with Convolutional Neural Networks](http://arxiv.org/abs/1511.09128)." arXiv preprint arXiv:1511.09128 (2015).
   - Irsoy, Ozan, and Claire Cardie. "[Opinion Mining with Deep Recurrent Neural Networks](http://anthology.aclweb.org/D/D14/D14-1080.pdf)." In EMNLP, pp. 720-728. 2014.
-  - Qian Chen, Xiaodan Zhu, Zhenhua Ling, Si Wei and Hui Jiang. "[A Neural Network for Document Summarization](http://ijcai-16.org/index.php/welcome/view/accepted_papers)." IJCAI 2016.
   
 
 ### Sentence Modelling
