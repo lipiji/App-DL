@@ -24,7 +24,7 @@
   - Jiatao Gu, Zhengdong Lu, Hang Li, Victor O.K. Li. "[Incorporating Copying Mechanism in Sequence-to-Sequence Learning](http://arxiv.org/abs/1603.06393)."  arXiv:1603.06393. (2016)
   - Jianpeng Cheng, Mirella Lapata. "[Neural Summarization by Extracting Sentences and Words](http://arxiv.org/abs/1603.07252)".  arXiv:1603.07252. (2016)
   - Ziqiang Cao, Wenjie Li, Sujian Li, Furu Wei. "[AttSum: Joint Learning of Focusing and Summarization with Neural Attention](http://arxiv.org/abs/1604.00125)".  arXiv:1604.00125 (2016)
-  - Ayana, Shiqi Shen, Zhiyuan Liu, Maosong Sun。 "[Neural Headline Generation with Minimum Risk Training](http://arxiv.org/abs/1604.01904)". arXiv:1604.01904 (2016)
+  - Ayana, Shiqi Shen, Zhiyuan Liu, Maosong Sun. "[Neural Headline Generation with Minimum Risk Training](http://arxiv.org/abs/1604.01904)". arXiv:1604.01904 (2016)
   - Qian Chen, Xiaodan Zhu, Zhenhua Ling, Si Wei and Hui Jiang. "[A Neural Network for Document Summarization](http://ijcai-16.org/index.php/welcome/view/accepted_papers)." IJCAI 2016.
 
 ### Opinion Summarization
@@ -52,12 +52,6 @@
  - Silver, David, Aja Huang, Chris J. Maddison, Arthur Guez, Laurent Sifre, George van den Driessche, Julian Schrittwieser et al. "[Mastering the game of Go with deep neural networks and tree search](http://www.nature.com/nature/journal/v529/n7587/full/nature16961.html)." Nature 529, no. 7587 (2016): 484-489.
  - Tian, Yuandong, and Yan Zhu. "[Better Computer Go Player with Neural Network and Long-term Prediction](http://arxiv.org/abs/1511.06410)." arXiv preprint arXiv:1511.06410 (2015).
 
-### Music Generation
- - [Using machine learning to generate music](http://www.datasciencecentral.com/profiles/blogs/using-machine-learning-to-generate-music)
- 
-### Computational Biology
- - [Awesome DeepBio](https://github.com/gokceneraslan/awesome-deepbio) by Gökçen Eraslan
-
 ### Neural Structures
  - Srivastava, Rupesh Kumar, Klaus Greff, and Jürgen Schmidhuber. "[Highway networks](http://arxiv.org/abs/1505.00387)." arXiv preprint arXiv:1505.00387 (2015).
  - Srivastava, Rupesh K., Klaus Greff, and Jürgen Schmidhuber. "[Training very deep networks](http://arxiv.org/abs/1507.06228)." In Advances in Neural Information Processing Systems, pp. 2368-2376. 2015.
@@ -65,3 +59,8 @@
  - Courbariaux, Matthieu, and Yoshua Bengio. "[Binarynet: Training deep neural networks with weights and activations constrained to+ 1 or-1](http://arxiv.org/abs/1602.02830)." arXiv preprint arXiv:1602.02830 (2016). 
  - Jiatao Gu, Zhengdong Lu, Hang Li, Victor O.K. Li. "[Incorporating Copying Mechanism in Sequence-to-Sequence Learning](http://arxiv.org/abs/1603.06393)."  arXiv:1603.06393. (2016)
 
+### Music Generation
+ - [Using machine learning to generate music](http://www.datasciencecentral.com/profiles/blogs/using-machine-learning-to-generate-music)
+ 
+### Computational Biology
+ - [Awesome DeepBio](https://github.com/gokceneraslan/awesome-deepbio) by Gökçen Eraslan
