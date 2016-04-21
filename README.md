@@ -26,6 +26,7 @@
   - Ziqiang Cao, Wenjie Li, Sujian Li, Furu Wei. "[AttSum: Joint Learning of Focusing and Summarization with Neural Attention](http://arxiv.org/abs/1604.00125)".  arXiv:1604.00125 (2016)
   - Ayana, Shiqi Shen, Zhiyuan Liu, Maosong Sun. "[Neural Headline Generation with Minimum Risk Training](http://arxiv.org/abs/1604.01904)". arXiv:1604.01904 (2016)
   - Qian Chen, Xiaodan Zhu, Zhenhua Ling, Si Wei and Hui Jiang. "[A Neural Network for Document Summarization](http://ijcai-16.org/index.php/welcome/view/accepted_papers)." IJCAI 2016.
+  - Wang, Lu, and Wang Ling. "[Neural Network-Based Abstract Generation for Opinions and Arguments](http://www.ccs.neu.edu/home/luwang/papers/NAACL2016.pdf)." NAACL 2016.
 
 ### Opinion Summarization
   - Wu, Haibing, Yiwei Gu, Shangdi Sun, and Xiaodong Gu. "[Aspect-based Opinion Summarization with Convolutional Neural Networks](http://arxiv.org/abs/1511.09128)." arXiv preprint arXiv:1511.09128 (2015).
