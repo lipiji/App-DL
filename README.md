@@ -22,7 +22,7 @@
   - Hu, Baotian, Qingcai Chen, and Fangze Zhu. "[LCSTS: a large scale chinese short text summarization dataset](http://arxiv.org/abs/1506.05865)." arXiv preprint arXiv:1506.05865 (2015).
   - Gulcehre, Caglar, Sungjin Ahn, Ramesh Nallapati, Bowen Zhou, and Yoshua Bengio. "[Pointing the Unknown Words](http://arxiv.org/abs/1603.08148)." arXiv preprint arXiv:1603.08148 (2016).
   - Nallapati, Ramesh, Bing Xiang, and Bowen Zhou. "[Abstractive Text Summarization Using Sequence-to-Sequence RNNs and Beyond](http://arxiv.org/abs/1602.06023)." arXiv preprint arXiv:1602.06023 (2016). [sentence compression]
-  - Sumit Chopra, Alexander M. Rush and Michael Auli. "[Abstractive Summarization with Attentive Recurrent Neural Networks](http://harvardnlp.github.io/papers/naacl16_summary.pdf)" NAACL 2016.
+  - Sumit Chopra, Alexander M. Rush and Michael Auli. "[Abstractive Sentence Summarization with Attentive Recurrent Neural Networks](http://harvardnlp.github.io/papers/naacl16_summary.pdf)" NAACL 2016.
   - Jiatao Gu, Zhengdong Lu, Hang Li, Victor O.K. Li. "[Incorporating Copying Mechanism in Sequence-to-Sequence Learning](http://arxiv.org/abs/1603.06393)."  arXiv:1603.06393. (2016)
   - Jianpeng Cheng, Mirella Lapata. "[Neural Summarization by Extracting Sentences and Words](http://arxiv.org/abs/1603.07252)".  arXiv:1603.07252. (2016)
   - Ziqiang Cao, Wenjie Li, Sujian Li, Furu Wei. "[AttSum: Joint Learning of Focusing and Summarization with Neural Attention](http://arxiv.org/abs/1604.00125)".  arXiv:1604.00125 (2016)
