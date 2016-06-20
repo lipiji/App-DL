@@ -3,6 +3,7 @@
 
 ###  Deep Reinforcement Learning
  - David Silver. "[Tutorial: Deep Reinforcement Learning](http://icml.cc/2016/tutorials/deep_rl_tutorial.pdf)." ICML 2016.
+ - David Silver’s course. "[Reinforcement Learning](http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Teaching.html)". 2015.
 
 
 ### Text Summarization
