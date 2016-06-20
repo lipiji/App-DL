@@ -69,6 +69,7 @@
  - Courbariaux, Matthieu, and Yoshua Bengio. "[Binarynet: Training deep neural networks with weights and activations constrained to+ 1 or-1](http://arxiv.org/abs/1602.02830)." arXiv preprint arXiv:1602.02830 (2016). 
  - Jiatao Gu, Zhengdong Lu, Hang Li, Victor O.K. Li. "[Incorporating Copying Mechanism in Sequence-to-Sequence Learning](http://arxiv.org/abs/1603.06393)." ACL (2016)
  - Gulcehre, Caglar, Sungjin Ahn, Ramesh Nallapati, Bowen Zhou, and Yoshua Bengio. "[Pointing the Unknown Words](http://arxiv.org/abs/1603.08148)." arXiv preprint arXiv:1603.08148 (2016).
+ - Andreas, Jacob, Marcus Rohrbach, Trevor Darrell, and Dan Klein. "[Learning to compose neural networks for question answering](http://arxiv.org/abs/1601.01705)." NAACL 2016.
 
 ### Music Generation
  - [Using machine learning to generate music](http://www.datasciencecentral.com/profiles/blogs/using-machine-learning-to-generate-music)
