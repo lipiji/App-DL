@@ -1,6 +1,10 @@
 ### Startups
   - [机器学习、深度学习、计算机视觉、大数据创业公司 - Startups in AI](https://github.com/lipiji/AIStartups)
 
+###  Deep Reinforcement Learning
+ - David Silver. "[Tutorial: Deep Reinforcement Learning](http://icml.cc/2016/tutorials/deep_rl_tutorial.pdf)." ICML 2016.
+
+
 ### Text Summarization
   - Ryang, Seonggi, and Takeshi Abekawa. "[Framework of automatic text summarization using reinforcement learning](http://dl.acm.org/citation.cfm?id=2390980)." In Proceedings of the 2012 Joint Conference on Empirical Methods in Natural Language Processing and Computational Natural Language Learning, pp. 256-265. Association for Computational Linguistics, 2012. [not eural-based methods]
   - King, Ben, Rahul Jha, Tyler Johnson, Vaishnavi Sundararajan, and Clayton Scott. "[Experiments in Automatic Text Summarization Using Deep Neural Networks](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.459.8775&rep=rep1&type=pdf)." Machine Learning (2011).
