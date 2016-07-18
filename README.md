@@ -44,6 +44,9 @@
  - Hill, Felix, Antoine Bordes, Sumit Chopra, and Jason Weston. "[The Goldilocks Principle: Reading Children's Books with Explicit Memory Representations](http://arxiv.org/abs/1511.02301)." arXiv preprint arXiv:1511.02301 (2015).
  - Kadlec, Rudolf, Martin Schmid, Ondrej Bajgar, and Jan Kleindienst. "[Text Understanding with the Attention Sum Reader Network](http://arxiv.org/abs/1603.01547)." arXiv preprint arXiv:1603.01547 (2016).
  - Chen, Danqi, Jason Bolton, and Christopher D. Manning. "[A thorough examination of the cnn/daily mail reading comprehension task](http://arxiv.org/abs/1606.02858)." arXiv preprint arXiv:1606.02858 (2016).
+ - Dhingra, Bhuwan, Hanxiao Liu, William W. Cohen, and Ruslan Salakhutdinov. "[Gated-Attention Readers for Text Comprehension](http://arxiv.org/abs/1606.01549)." arXiv preprint arXiv:1606.01549 (2016).
+ - Sordoni, Alessandro, Phillip Bachman, and Yoshua Bengio. "[Iterative Alternating Neural Attention for Machine Reading](http://arxiv.org/abs/1606.02245)." arXiv preprint arXiv:1606.02245 (2016).
+ - Trischler, Adam, Zheng Ye, Xingdi Yuan, and Kaheer Suleman. "[Natural Language Comprehension with the EpiReader](http://arxiv.org/abs/1606.02270)." arXiv preprint arXiv:1606.02270 (2016).
  - Yiming Cui, Zhipeng Chen, Si Wei, Shijin Wang, Ting Liu, Guoping Hu. "[Attention-over-Attention Neural Networks for Reading Comprehension](http://arxiv.org/abs/1607.04423)." arXiv preprint arXiv:1607.04423 (2016).
  - Yiming Cui, Ting Liu, Zhipeng Chen, Shijin Wang, Guoping Hu. "[Consensus Attention-based Neural Networks for Chinese Reading Comprehension](https://arxiv.org/abs/1607.02250)." arXiv preprint arXiv:1607.02250 (2016).
   
@@ -72,6 +75,7 @@
 ### Neural Structures
  - Srivastava, Rupesh Kumar, Klaus Greff, and Jürgen Schmidhuber. "[Highway networks](http://arxiv.org/abs/1505.00387)." arXiv preprint arXiv:1505.00387 (2015).
  - Srivastava, Rupesh K., Klaus Greff, and Jürgen Schmidhuber. "[Training very deep networks](http://arxiv.org/abs/1507.06228)." In Advances in Neural Information Processing Systems, pp. 2368-2376. 2015.
+ - Vinyals, Oriol, Meire Fortunato, and Navdeep Jaitly. "[Pointer networks](https://arxiv.org/abs/1506.03134)." In Advances in Neural Information Processing Systems, pp. 2692-2700. 2015.
  - He, Kaiming, Xiangyu Zhang, Shaoqing Ren, and Jian Sun. "[Deep Residual Learning for Image Recognition](http://arxiv.org/abs/1512.03385)." arXiv preprint arXiv:1512.03385 (2015).
  - He, Kaiming. "[Tutorial: Deep	Residual	Networks: Deep	Learning	Gets	Way Deeper](http://icml.cc/2016/tutorials/icml2016_tutorial_deep_residual_networks_kaiminghe.pdf)." ICML	2016	tutorial.
  - Courbariaux, Matthieu, and Yoshua Bengio. "[Binarynet: Training deep neural networks with weights and activations constrained to+ 1 or-1](http://arxiv.org/abs/1602.02830)." arXiv preprint arXiv:1602.02830 (2016). 
