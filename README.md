@@ -60,6 +60,9 @@
 
 ### Reasoning
   - Peng, Baolin, Zhengdong Lu, Hang Li, and Kam-Fai Wong. "[Towards Neural Network-based Reasoning](http://arxiv.org/abs/1508.05508)." arXiv preprint arXiv:1508.05508 (2015).
+  
+### Knowledge Engine
+ - Lin, Yankai, Shiqi Shen, Zhiyuan Liu, Huanbo Luan, and Maosong Sun. "[Neural Relation Extraction with Selective Attention over Instances](http://nlp.csai.tsinghua.edu.cn/~lzy/publications/acl2016_nre.pdf)." ACL (2016)
 
 ### Memory Networks
  - Graves, Alex, Greg Wayne, and Ivo Danihelka. "[Neural turing machines](http://arxiv.org/abs/1410.5401)." arXiv preprint arXiv:1410.5401 (2014).
