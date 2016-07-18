@@ -38,6 +38,10 @@
 ### Opinion Summarization
   - Wu, Haibing, Yiwei Gu, Shangdi Sun, and Xiaodong Gu. "[Aspect-based Opinion Summarization with Convolutional Neural Networks](http://arxiv.org/abs/1511.09128)." arXiv preprint arXiv:1511.09128 (2015).
   - Irsoy, Ozan, and Claire Cardie. "[Opinion Mining with Deep Recurrent Neural Networks](http://anthology.aclweb.org/D/D14/D14-1080.pdf)." In EMNLP, pp. 720-728. 2014.
+
+### Reading Comprehension
+ - Yiming Cui, Zhipeng Chen, Si Wei, Shijin Wang, Ting Liu, Guoping Hu. "[Attention-over-Attention Neural Networks for Reading Comprehension](http://arxiv.org/abs/1607.04423)." arXiv preprint arXiv:1607.04423 (2016).
+ - Yiming Cui, Ting Liu, Zhipeng Chen, Shijin Wang, Guoping Hu. "[Consensus Attention-based Neural Networks for Chinese Reading Comprehension](https://arxiv.org/abs/1607.02250)." arXiv preprint arXiv:1607.02250 (2016).
   
 
 ### Sentence Modelling
