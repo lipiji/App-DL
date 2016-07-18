@@ -68,9 +68,21 @@
   - Bollen, Johan, Huina Mao, and Xiaojun Zeng. "[Twitter mood predicts the stock market](http://arxiv.org/abs/1010.3003)." Journal of Computational Science 2, no. 1 (2011): 1-8.
   - Hengjian Jia. "[Investigation Into The Effectiveness Of Long Short Term Memory Networks For Stock Price Prediction](http://arxiv.org/abs/1603.07893)." arXiv:1603.07893. (2016)
 
-### GO
- - Silver, David, Aja Huang, Chris J. Maddison, Arthur Guez, Laurent Sifre, George van den Driessche, Julian Schrittwieser et al. "[Mastering the game of Go with deep neural networks and tree search](http://www.nature.com/nature/journal/v529/n7587/full/nature16961.html)." Nature 529, no. 7587 (2016): 484-489.
- - Tian, Yuandong, and Yan Zhu. "[Better Computer Go Player with Neural Network and Long-term Prediction](http://arxiv.org/abs/1511.06410)." arXiv preprint arXiv:1511.06410 (2015).
+### Memory Networks
+ - Graves, Alex, Greg Wayne, and Ivo Danihelka. "[Neural turing machines](http://arxiv.org/abs/1410.5401)." arXiv preprint arXiv:1410.5401 (2014).
+ - Weston, Jason, Sumit Chopra, and Antoine Bordes. "[Memory networks](http://arxiv.org/abs/1410.3916)." ICLR (2014).
+ - Sukhbaatar, Sainbayar, Jason Weston, and Rob Fergus. "[End-to-end memory networks](http://papers.nips.cc/paper/5846-end-to-end-memory-networks)." In Advances in neural information processing systems, pp. 2440-2448. 2015.
+ - Weston, Jason, Antoine Bordes, Sumit Chopra, Alexander M. Rush, Bart van Merriënboer, Armand Joulin, and Tomas Mikolov. "[Towards ai-complete question answering: A set of prerequisite toy tasks](http://arxiv.org/abs/1502.05698)." arXiv preprint arXiv:1502.05698 (2015).
+ - Bordes, Antoine, Nicolas Usunier, Sumit Chopra, and Jason Weston. "[Large-scale simple question answering with memory networks](http://arxiv.org/abs/1506.02075)." arXiv preprint arXiv:1506.02075 (2015).
+ - Kumar, Ankit, Ozan Irsoy, Jonathan Su, James Bradbury, Robert English, Brian Pierce, Peter Ondruska, Ishaan Gulrajani, and Richard Socher. "[Ask me anything: Dynamic memory networks for natural language processing](http://arxiv.org/abs/1506.07285)." arXiv preprint arXiv:1506.07285 (2015).
+ - Dodge, Jesse, Andreea Gane, Xiang Zhang, Antoine Bordes, Sumit Chopra, Alexander Miller, Arthur Szlam, and Jason Weston. "[Evaluating prerequisite qualities for learning end-to-end dialog systems](http://arxiv.org/abs/1511.06931)." arXiv preprint arXiv:1511.06931 (2015).
+ - Hill, Felix, Antoine Bordes, Sumit Chopra, and Jason Weston. "[The Goldilocks Principle: Reading Children's Books with Explicit Memory Representations](http://arxiv.org/abs/1511.02301)." arXiv preprint arXiv:1511.02301 (2015).
+ - Weston, Jason. "[Dialog-based Language Learning](http://arxiv.org/abs/1604.06045)." arXiv preprint arXiv:1604.06045 (2016).
+ - Bordes, Antoine, and Jason Weston. "[Learning End-to-End Goal-Oriented Dialog](http://arxiv.org/abs/1605.07683)." arXiv preprint arXiv:1605.07683 (2016).
+ - Chandar, Sarath, Sungjin Ahn, Hugo Larochelle, Pascal Vincent, Gerald Tesauro, and Yoshua Bengio. "[Hierarchical Memory Networks](https://arxiv.org/abs/1605.07427)." arXiv preprint arXiv:1605.07427 (2016).
+ - Jason Weston."[Memory Networks for Language Understanding](http://www.thespermwhale.com/jaseweston/icml2016/)." ICML Tutorial 2016
+ - Tang, Yaohua, Fandong Meng, Zhengdong Lu, Hang Li, and Philip LH Yu. "[Neural Machine Translation with External Phrase Memory](http://arxiv.org/abs/1606.01792)." arXiv preprint arXiv:1606.01792 (2016).
+ - Wang, Mingxuan, Zhengdong Lu, Hang Li, and Qun Liu. "[Memory-enhanced Decoder for Neural Machine Translation](http://arxiv.org/abs/1606.02003)." arXiv preprint arXiv:1606.02003 (2016).
 
 ### Neural Structures
  - Srivastava, Rupesh Kumar, Klaus Greff, and Jürgen Schmidhuber. "[Highway networks](http://arxiv.org/abs/1505.00387)." arXiv preprint arXiv:1505.00387 (2015).
@@ -82,7 +94,6 @@
  - Jiatao Gu, Zhengdong Lu, Hang Li, Victor O.K. Li. "[Incorporating Copying Mechanism in Sequence-to-Sequence Learning](http://arxiv.org/abs/1603.06393)." ACL (2016)
  - Gulcehre, Caglar, Sungjin Ahn, Ramesh Nallapati, Bowen Zhou, and Yoshua Bengio. "[Pointing the Unknown Words](http://arxiv.org/abs/1603.08148)." arXiv preprint arXiv:1603.08148 (2016).
  - Andreas, Jacob, Marcus Rohrbach, Trevor Darrell, and Dan Klein. "[Learning to compose neural networks for question answering](http://arxiv.org/abs/1601.01705)." NAACL 2016.
- - Chandar, Sarath, Sungjin Ahn, Hugo Larochelle, Pascal Vincent, Gerald Tesauro, and Yoshua Bengio. "[Hierarchical Memory Networks](https://arxiv.org/abs/1605.07427)." arXiv preprint arXiv:1605.07427 (2016).
  - Julian Georg Zilly, Rupesh Kumar Srivastava, Jan Koutník, Jürgen Schmidhuber. "[Recurrent Highway Networks](http://arxiv.org/abs/1607.03474)." arXiv preprint  arXiv:1607.03474 (2016).
 
 ### Music Generation
@@ -90,3 +101,7 @@
  
 ### Computational Biology
  - [Awesome DeepBio](https://github.com/gokceneraslan/awesome-deepbio) by Gökçen Eraslan
+
+### GO
+ - Silver, David, Aja Huang, Chris J. Maddison, Arthur Guez, Laurent Sifre, George van den Driessche, Julian Schrittwieser et al. "[Mastering the game of Go with deep neural networks and tree search](http://www.nature.com/nature/journal/v529/n7587/full/nature16961.html)." Nature 529, no. 7587 (2016): 484-489.
+ - Tian, Yuandong, and Yan Zhu. "[Better Computer Go Player with Neural Network and Long-term Prediction](http://arxiv.org/abs/1511.06410)." arXiv preprint arXiv:1511.06410 (2015).
