@@ -101,6 +101,8 @@
  - Doersch, Carl. "[Tutorial on Variational Autoencoders](https://arxiv.org/abs/1606.05908)." arXiv preprint arXiv:1606.05908 (2016).
  - 【GAN】:
  - Goodfellow, Ian, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, and Yoshua Bengio. "[Generative adversarial nets](http://arxiv.org/abs/1406.2661)." In Advances in Neural Information Processing Systems, pp. 2672-2680. 20
+ - Salimans, Tim, Ian Goodfellow, Wojciech Zaremba, Vicki Cheung, Alec Radford, and Xi Chen. "[Improved Techniques for Training GANs](http://arxiv.org/abs/1606.03498)." arXiv preprint arXiv:1606.03498 (2016).
+ - Chen, Xi, Yan Duan, Rein Houthooft, John Schulman, Ilya Sutskever, and Pieter Abbeel. "[InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets](http://arxiv.org/abs/1606.03657)." arXiv preprint arXiv:1606.03657 (2016).
  
 
 ### Music Generation
