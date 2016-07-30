@@ -95,9 +95,11 @@
  - 【VAE】:
  - Rezende, Danilo Jimenez, Shakir Mohamed, and Daan Wierstra. "[Stochastic backpropagation and approximate inference in deep generative models](http://arxiv.org/abs/1401.4082)." arXiv preprint arXiv:1401.4082 (2014).
  - Kingma, Diederik P., and Max Welling. "[Auto-encoding variational bayes](http://arxiv.org/abs/1312.6114)." arXiv preprint arXiv:1312.6114 (2013).
+ - Gregor, Karol, Ivo Danihelka, Alex Graves, Danilo Jimenez Rezende, and Daan Wierstra. "[DRAW: A recurrent neural network for image generation](http://arxiv.org/abs/1502.04623)." arXiv preprint arXiv:1502.04623 (2015).
  - Johnson, Matthew J., David Duvenaud, Alexander B. Wiltschko, Sandeep R. Datta, and Ryan P. Adams. "[Composing graphical models with neural networks for structured representations and fast inference](http://arxiv.org/abs/1603.06277)." arXiv preprint arXiv:1603.06277 (2016).
  - Doersch, Carl. "[Tutorial on Variational Autoencoders](https://arxiv.org/abs/1606.05908)." arXiv preprint arXiv:1606.05908 (2016).
  - 【GAN】:
+ - Goodfellow, Ian, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, and Yoshua Bengio. "[Generative adversarial nets](http://arxiv.org/abs/1406.2661)." In Advances in Neural Information Processing Systems, pp. 2672-2680. 20
  
 
 ### Music Generation
