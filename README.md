@@ -92,7 +92,9 @@
  - Gulcehre, Caglar, Sungjin Ahn, Ramesh Nallapati, Bowen Zhou, and Yoshua Bengio. "[Pointing the Unknown Words](http://arxiv.org/abs/1603.08148)." arXiv preprint arXiv:1603.08148 (2016).
  - Andreas, Jacob, Marcus Rohrbach, Trevor Darrell, and Dan Klein. "[Learning to compose neural networks for question answering](http://arxiv.org/abs/1601.01705)." NAACL 2016.
  - Julian Georg Zilly, Rupesh Kumar Srivastava, Jan Koutník, Jürgen Schmidhuber. "[Recurrent Highway Networks](http://arxiv.org/abs/1607.03474)." arXiv preprint  arXiv:1607.03474 (2016).
-
+ - 【VAE】
+ - Rezende, Danilo Jimenez, Shakir Mohamed, and Daan Wierstra. "[Stochastic backpropagation and approximate inference in deep generative models](http://arxiv.org/abs/1401.4082)." arXiv preprint arXiv:1401.4082 (2014).
+ - 【GAN】
 ### Music Generation
  - [Using machine learning to generate music](http://www.datasciencecentral.com/profiles/blogs/using-machine-learning-to-generate-music)
  
