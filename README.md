@@ -100,9 +100,13 @@
  - Johnson, Matthew J., David Duvenaud, Alexander B. Wiltschko, Sandeep R. Datta, and Ryan P. Adams. "[Composing graphical models with neural networks for structured representations and fast inference](http://arxiv.org/abs/1603.06277)." arXiv preprint arXiv:1603.06277 (2016).
  - Doersch, Carl. "[Tutorial on Variational Autoencoders](https://arxiv.org/abs/1606.05908)." arXiv preprint arXiv:1606.05908 (2016).
  - 【GAN】:
- - Goodfellow, Ian, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, and Yoshua Bengio. "[Generative adversarial nets](http://arxiv.org/abs/1406.2661)." In Advances in Neural Information Processing Systems, pp. 2672-2680. 20
+ - Goodfellow, Ian, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, and Yoshua Bengio. "[Generative adversarial nets](http://arxiv.org/abs/1406.2661)." In Advances in Neural Information Processing Systems, pp. 2672-2680. 2014
+ - Radford, Alec, Luke Metz, and Soumith Chintala. "[Unsupervised representation learning with deep convolutional generative adversarial networks](http://arxiv.org/abs/1511.06434)." arXiv preprint arXiv:1511.06434 (2015).
+ - Denton, Emily L., Soumith Chintala, and Rob Fergus. "[Deep Generative Image Models using a￼ Laplacian Pyramid of Adversarial Networks](http://arxiv.org/abs/1506.05751)." In Advances in neural information processing systems, pp. 1486-1494. 2015.
+ - Dosovitskiy, Alexey, Jost Tobias Springenberg, and Thomas Brox. "[Learning to generate chairs with convolutional neural networks](http://arxiv.org/abs/1411.5928)." In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp. 1538-1546. 2015.
  - Salimans, Tim, Ian Goodfellow, Wojciech Zaremba, Vicki Cheung, Alec Radford, and Xi Chen. "[Improved Techniques for Training GANs](http://arxiv.org/abs/1606.03498)." arXiv preprint arXiv:1606.03498 (2016).
  - Chen, Xi, Yan Duan, Rein Houthooft, John Schulman, Ilya Sutskever, and Pieter Abbeel. "[InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets](http://arxiv.org/abs/1606.03657)." arXiv preprint arXiv:1606.03657 (2016).
+ - 
  
 
 ### Music Generation
