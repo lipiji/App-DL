@@ -99,7 +99,7 @@
  - Gregor, Karol, Ivo Danihelka, Alex Graves, Danilo Jimenez Rezende, and Daan Wierstra. "[DRAW: A recurrent neural network for image generation](http://arxiv.org/abs/1502.04623)." arXiv preprint arXiv:1502.04623 (2015).
  - Johnson, Matthew J., David Duvenaud, Alexander B. Wiltschko, Sandeep R. Datta, and Ryan P. Adams. "[Composing graphical models with neural networks for structured representations and fast inference](http://arxiv.org/abs/1603.06277)." arXiv preprint arXiv:1603.06277 (2016).
  - Doersch, Carl. "[Tutorial on Variational Autoencoders](https://arxiv.org/abs/1606.05908)." arXiv preprint arXiv:1606.05908 (2016).
- - 【GAN】【GAN】【GAN】【GAN】【GAN】【GAN】【GAN】【GAN】【GAN】【GAN】【GAN】:
+ - 【GAN】【GAN】【GAN】【GAN】【GAN】【GAN】【GAN】【GAN】【GAN】【GAN】:
  - Goodfellow, Ian, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, and Yoshua Bengio. "[Generative adversarial nets](http://arxiv.org/abs/1406.2661)." In Advances in Neural Information Processing Systems, pp. 2672-2680. 2014
  - Radford, Alec, Luke Metz, and Soumith Chintala. "[Unsupervised representation learning with deep convolutional generative adversarial networks](http://arxiv.org/abs/1511.06434)." arXiv preprint arXiv:1511.06434 (2015).
  - Denton, Emily L., Soumith Chintala, and Rob Fergus. "[Deep Generative Image Models using a￼ Laplacian Pyramid of Adversarial Networks](http://arxiv.org/abs/1506.05751)." In Advances in neural information processing systems, pp. 1486-1494. 2015.
