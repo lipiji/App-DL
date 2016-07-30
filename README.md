@@ -4,6 +4,7 @@
 ###  Deep Reinforcement Learning
  - David Silver. "[Tutorial: Deep Reinforcement Learning](http://icml.cc/2016/tutorials/deep_rl_tutorial.pdf)." ICML 2016.
  - David Silver’s course. "[Reinforcement Learning](http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Teaching.html)". 2015.
+ - Bahdanau, Dzmitry, Philemon Brakel, Kelvin Xu, Anirudh Goyal, Ryan Lowe, Joelle Pineau, Aaron Courville, and Yoshua Bengio. "[An Actor-Critic Algorithm for Sequence Prediction](http://arxiv.org/abs/1607.07086)." arXiv preprint arXiv:1607.07086 (2016).
 
 
 ### Text Summarization
