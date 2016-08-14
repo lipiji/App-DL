@@ -109,6 +109,7 @@
  - Radford, Alec, Luke Metz, and Soumith Chintala. "[Unsupervised representation learning with deep convolutional generative adversarial networks](http://arxiv.org/abs/1511.06434)." arXiv preprint arXiv:1511.06434 (2015).
  - Denton, Emily L., Soumith Chintala, and Rob Fergus. "[Deep Generative Image Models using a￼ Laplacian Pyramid of Adversarial Networks](http://arxiv.org/abs/1506.05751)." In Advances in neural information processing systems, pp. 1486-1494. 2015.
  - Dosovitskiy, Alexey, Jost Tobias Springenberg, and Thomas Brox. "[Learning to generate chairs with convolutional neural networks](http://arxiv.org/abs/1411.5928)." In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp. 1538-1546. 2015.
+ - Mathieu, Michael, Camille Couprie, and Yann LeCun. "[Deep multi-scale video prediction beyond mean square error](http://arxiv.org/abs/1511.05440)." arXiv preprint arXiv:1511.05440 (2015).
  - Salimans, Tim, Ian Goodfellow, Wojciech Zaremba, Vicki Cheung, Alec Radford, and Xi Chen. "[Improved Techniques for Training GANs](http://arxiv.org/abs/1606.03498)." arXiv preprint arXiv:1606.03498 (2016).
  - Chen, Xi, Yan Duan, Rein Houthooft, John Schulman, Ilya Sutskever, and Pieter Abbeel. "[InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets](http://arxiv.org/abs/1606.03657)." arXiv preprint arXiv:1606.03657 (2016).
  
