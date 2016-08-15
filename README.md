@@ -101,6 +101,7 @@
  - Bayer, Justin, and Christian Osendorfer. "[Learning stochastic recurrent networks](http://arxiv.org/abs/1411.7610)." arXiv preprint arXiv:1411.7610 (2014).
  - Bowman, Samuel R., Luke Vilnis, Oriol Vinyals, Andrew M. Dai, Rafal Jozefowicz, and Samy Bengio. "[Generating sentences from a continuous space](https://arxiv.org/abs/1511.06349)." arXiv preprint arXiv:1511.06349 (2015).
  - Gregor, Karol, Ivo Danihelka, Alex Graves, Danilo Jimenez Rezende, and Daan Wierstra. "[DRAW: A recurrent neural network for image generation](http://arxiv.org/abs/1502.04623)." arXiv preprint arXiv:1502.04623 (2015).
+ - Makhzani, Alireza, Jonathon Shlens, Navdeep Jaitly, and Ian Goodfellow. "[Adversarial autoencoders](http://arxiv.org/abs/1511.05644)." arXiv preprint arXiv:1511.05644 (2015).
  - Johnson, Matthew J., David Duvenaud, Alexander B. Wiltschko, Sandeep R. Datta, and Ryan P. Adams. "[Composing graphical models with neural networks for structured representations and fast inference](http://arxiv.org/abs/1603.06277)." arXiv preprint arXiv:1603.06277 (2016).
  - Doersch, Carl. "[Tutorial on Variational Autoencoders](https://arxiv.org/abs/1606.05908)." arXiv preprint arXiv:1606.05908 (2016).
  - Chung, Junyoung, Kyle Kastner, Laurent Dinh, Kratarth Goel, Aaron C. Courville, and Yoshua Bengio. "[A recurrent latent variable model for sequential data](http://arxiv.org/abs/1506.02216)." In Advances in neural information processing systems, pp. 2980-2988. 2015.
