@@ -114,6 +114,8 @@
  - Mathieu, Michael, Camille Couprie, and Yann LeCun. "[Deep multi-scale video prediction beyond mean square error](http://arxiv.org/abs/1511.05440)." arXiv preprint arXiv:1511.05440 (2015).
  - Salimans, Tim, Ian Goodfellow, Wojciech Zaremba, Vicki Cheung, Alec Radford, and Xi Chen. "[Improved Techniques for Training GANs](http://arxiv.org/abs/1606.03498)." arXiv preprint arXiv:1606.03498 (2016).
  - Chen, Xi, Yan Duan, Rein Houthooft, John Schulman, Ilya Sutskever, and Pieter Abbeel. "[InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets](http://arxiv.org/abs/1606.03657)." arXiv preprint arXiv:1606.03657 (2016).
+ - Im, Daniel Jiwoong, Chris Dongjoo Kim, Hui Jiang, and Roland Memisevic. "[Generating images with recurrent adversarial networks](http://arxiv.org/abs/1602.05110)." arXiv preprint arXiv:1602.05110 (2016).
+ - Yu, Lantao, Weinan Zhang, Jun Wang, and Yong Yu. "[SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](http://arxiv.org/abs/1609.05473)." arXiv preprint arXiv:1609.05473 (2016).
  
 
 ### Music Generation
