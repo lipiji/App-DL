@@ -106,6 +106,7 @@
  - Johnson, Matthew J., David Duvenaud, Alexander B. Wiltschko, Sandeep R. Datta, and Ryan P. Adams. "[Composing graphical models with neural networks for structured representations and fast inference](http://arxiv.org/abs/1603.06277)." arXiv preprint arXiv:1603.06277 (2016).
  - Doersch, Carl. "[Tutorial on Variational Autoencoders](https://arxiv.org/abs/1606.05908)." arXiv preprint arXiv:1606.05908 (2016).
  - Chung, Junyoung, Kyle Kastner, Laurent Dinh, Kratarth Goel, Aaron C. Courville, and Yoshua Bengio. "[A recurrent latent variable model for sequential data](http://arxiv.org/abs/1506.02216)." In Advances in neural information processing systems, pp. 2980-2988. 2015.
+ - Eslami, S. M., Nicolas Heess, Theophane Weber, Yuval Tassa, Koray Kavukcuoglu, and Geoffrey E. Hinton. "[Attend, Infer, Repeat: Fast Scene Understanding with Generative Models](https://arxiv.org/abs/1603.08575)." arXiv preprint arXiv:1603.08575 (2016).
  - 【GAN】:
  - Goodfellow, Ian, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, and Yoshua Bengio. "[Generative adversarial nets](http://arxiv.org/abs/1406.2661)." In Advances in Neural Information Processing Systems, pp. 2672-2680. 2014
  - Radford, Alec, Luke Metz, and Soumith Chintala. "[Unsupervised representation learning with deep convolutional generative adversarial networks](http://arxiv.org/abs/1511.06434)." arXiv preprint arXiv:1511.06434 (2015).
