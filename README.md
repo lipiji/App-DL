@@ -66,6 +66,7 @@
   - Peng, Baolin, Zhengdong Lu, Hang Li, and Kam-Fai Wong. "[Towards Neural Network-based Reasoning](http://arxiv.org/abs/1508.05508)." arXiv preprint arXiv:1508.05508 (2015).
   
 ### Knowledge Engine
+ - Bordes, Antoine, Nicolas Usunier, Alberto Garcia-Duran, Jason Weston, and Oksana Yakhnenko. "[Translating embeddings for modeling multi-relational data](http://papers.nips.cc/paper/5071-translating-embeddings-for-modeling-multi-relational-data)." In Advances in Neural Information Processing Systems, pp. 2787-2795. 2013. TransE
  - Lin, Yankai, Shiqi Shen, Zhiyuan Liu, Huanbo Luan, and Maosong Sun. "[Neural Relation Extraction with Selective Attention over Instances](http://nlp.csai.tsinghua.edu.cn/~lzy/publications/acl2016_nre.pdf)." ACL (2016)
 
 ### Memory Networks
