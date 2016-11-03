@@ -102,7 +102,6 @@
  - Xiang Li, Tao Qin, Jian Yang, Tie-Yan Liu. "[LightRNN: Memory and Computation-Efficient Recurrent Neural Networks](https://arxiv.org/abs/1610.09893)." arXiv preprint  arXiv:1610.09893 (2016).
  
  
- 
  - 【VAE】:
  - Rezende, Danilo Jimenez, Shakir Mohamed, and Daan Wierstra. "[Stochastic backpropagation and approximate inference in deep generative models](http://arxiv.org/abs/1401.4082)." arXiv preprint arXiv:1401.4082 (2014).
  - Kingma, Diederik P., and Max Welling. "[Auto-encoding variational bayes](http://arxiv.org/abs/1312.6114)." arXiv preprint arXiv:1312.6114 (2013).
@@ -126,7 +125,7 @@
  - Chen, Xi, Yan Duan, Rein Houthooft, John Schulman, Ilya Sutskever, and Pieter Abbeel. "[InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets](http://arxiv.org/abs/1606.03657)." arXiv preprint arXiv:1606.03657 (2016).
  - Im, Daniel Jiwoong, Chris Dongjoo Kim, Hui Jiang, and Roland Memisevic. "[Generating images with recurrent adversarial networks](http://arxiv.org/abs/1602.05110)." arXiv preprint arXiv:1602.05110 (2016).
  - Yu, Lantao, Weinan Zhang, Jun Wang, and Yong Yu. "[SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](http://arxiv.org/abs/1609.05473)." arXiv preprint arXiv:1609.05473 (2016).
-  - Augustus Odena, Christopher Olah, Jonathon Shlens. "[Conditional Image Synthesis With Auxiliary Classifier GANs](https://arxiv.org/abs/1610.09585)." arXiv preprint arXiv:1610.09585 (2016).
+ - Augustus Odena, Christopher Olah, Jonathon Shlens. "[Conditional Image Synthesis With Auxiliary Classifier GANs](https://arxiv.org/abs/1610.09585)." arXiv preprint arXiv:1610.09585 (2016).
  
 
 ### Music Generation
