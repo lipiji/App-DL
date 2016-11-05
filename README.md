@@ -85,6 +85,7 @@
  - Jason Weston."[Memory Networks for Language Understanding](http://www.thespermwhale.com/jaseweston/icml2016/)." ICML Tutorial 2016
  - Tang, Yaohua, Fandong Meng, Zhengdong Lu, Hang Li, and Philip LH Yu. "[Neural Machine Translation with External Phrase Memory](http://arxiv.org/abs/1606.01792)." arXiv preprint arXiv:1606.01792 (2016).
  - Wang, Mingxuan, Zhengdong Lu, Hang Li, and Qun Liu. "[Memory-enhanced Decoder for Neural Machine Translation](http://arxiv.org/abs/1606.02003)." arXiv preprint arXiv:1606.02003 (2016).
+ - Xiong, Caiming, Stephen Merity, and Richard Socher. "[Dynamic memory networks for visual and textual question answering](https://arxiv.org/abs/1603.01417)." arXiv preprint arXiv:1603.01417 (2016).
 
 ### Neural Structures
  - Srivastava, Rupesh Kumar, Klaus Greff, and Jürgen Schmidhuber. "[Highway networks](http://arxiv.org/abs/1505.00387)." arXiv preprint arXiv:1505.00387 (2015).
