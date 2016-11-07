@@ -69,6 +69,7 @@
 ### Knowledge Engine
  - Bordes, Antoine, Nicolas Usunier, Alberto Garcia-Duran, Jason Weston, and Oksana Yakhnenko. "[Translating embeddings for modeling multi-relational data](http://papers.nips.cc/paper/5071-translating-embeddings-for-modeling-multi-relational-data)." In Advances in Neural Information Processing Systems, pp. 2787-2795. 2013. TransE
  - Lin, Yankai, Shiqi Shen, Zhiyuan Liu, Huanbo Luan, and Maosong Sun. "[Neural Relation Extraction with Selective Attention over Instances](http://nlp.csai.tsinghua.edu.cn/~lzy/publications/acl2016_nre.pdf)." ACL (2016)
+ - TransXXX
 
 ### Memory Networks
  - Graves, Alex, Greg Wayne, and Ivo Danihelka. "[Neural turing machines](http://arxiv.org/abs/1410.5401)." arXiv preprint arXiv:1410.5401 (2014).
