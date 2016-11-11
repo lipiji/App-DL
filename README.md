@@ -103,7 +103,7 @@
  - Julian Georg Zilly, Rupesh Kumar Srivastava, Jan Koutník, Jürgen Schmidhuber. "[Recurrent Highway Networks](http://arxiv.org/abs/1607.03474)." arXiv preprint  arXiv:1607.03474 (2016).
  - Zhilin Yang, Ye Yuan, Yuexin Wu, Ruslan Salakhutdinov, William W. Cohen. "[Review Networks for Caption Generation](https://arxiv.org/abs/1605.07912)." arXiv preprint  arXiv:1605.07912 (2016).
  - Xiang Li, Tao Qin, Jian Yang, Tie-Yan Liu. "[LightRNN: Memory and Computation-Efficient Recurrent Neural Networks](https://arxiv.org/abs/1610.09893)." arXiv preprint  arXiv:1610.09893 (2016).
- 
+ - Zhaopeng Tu, Yang Liu, Lifeng Shang, Xiaohua Liu, Hang Li. "[Neural Machine Translation with Reconstruction](https://arxiv.org/abs/1611.01874)." arXiv preprint  arXiv:1611.01874 (2016).
  
  - 【VAE】:
  - Rezende, Danilo Jimenez, Shakir Mohamed, and Daan Wierstra. "[Stochastic backpropagation and approximate inference in deep generative models](http://arxiv.org/abs/1401.4082)." arXiv preprint arXiv:1401.4082 (2014).
