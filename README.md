@@ -39,6 +39,7 @@
   - Wang, Lu, and Wang Ling. "[Neural Network-Based Abstract Generation for Opinions and Arguments](http://www.ccs.neu.edu/home/luwang/papers/NAACL2016.pdf)." NAACL 2016.
   - Yishu Miao, Phil Blunsom. "[Language as a Latent Variable: Discrete Generative Models for Sentence Compression](http://arxiv.org/abs/1609.07317)." EMNLP 2016.
   - Hongya Song, Zhaochun Ren, Piji Li, Shangsong Liang, Jun Ma, and Maarten de Rijke. [Summarizing Answers in Non-Factoid Community Question-Answering](). In WSDM 2017: The 10th International Conference on Web Search and Data Mining, 2017.
+  - Wenyuan Zeng, Wenjie Luo, Sanja Fidler, Raquel Urtasun. "[Efficient Summarization with Read-Again and Copy Mechanism](https://arxiv.org/abs/1611.03382)." arXiv preprint arXiv:1611.03382 (2016).
 
 ### Opinion Summarization
   - Wu, Haibing, Yiwei Gu, Shangdi Sun, and Xiaodong Gu. "[Aspect-based Opinion Summarization with Convolutional Neural Networks](http://arxiv.org/abs/1511.09128)." arXiv preprint arXiv:1511.09128 (2015).
