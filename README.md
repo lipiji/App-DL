@@ -40,7 +40,7 @@
   - Yishu Miao, Phil Blunsom. "[Language as a Latent Variable: Discrete Generative Models for Sentence Compression](http://arxiv.org/abs/1609.07317)." EMNLP 2016.
   - Hongya Song, Zhaochun Ren, Piji Li, Shangsong Liang, Jun Ma, and Maarten de Rijke. [Summarizing Answers in Non-Factoid Community Question-Answering](). In WSDM 2017: The 10th International Conference on Web Search and Data Mining, 2017.
   - Wenyuan Zeng, Wenjie Luo, Sanja Fidler, Raquel Urtasun. "[Efficient Summarization with Read-Again and Copy Mechanism](https://arxiv.org/abs/1611.03382)." arXiv preprint arXiv:1611.03382 (2016).
-  - Piji Li, Zihao Wang, Wai Lam, Zhaochun Ren, Lidong Bing. [Salience Estimation via Variational Auto-Encoders for Multi-Document Summarization](). In AAAI, 2017.
+  - Piji Li, Zihao Wang, Wai Lam, Zhaochun Ren, Lidong Bing. Salience Estimation via Variational Auto-Encoders for Multi-Document Summarization. In AAAI, 2017.
   - Ramesh Nallapati, Feifei Zhai, Bowen Zhou. [SummaRuNNer: A Recurrent Neural Network based Sequence Model for Extractive Summarization of Documents](https://arxiv.org/abs/1611.04230). In AAAI, 2017.
   - Ramesh Nallapati, Bowen Zhou, Mingbo Ma. "[Classify or Select: Neural Architectures for Extractive Document Summarization](https://arxiv.org/abs/1611.04244)." arXiv preprint arXiv:1611.04244 (2016).
 
