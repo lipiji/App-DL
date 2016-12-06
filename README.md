@@ -133,6 +133,7 @@
  - Im, Daniel Jiwoong, Chris Dongjoo Kim, Hui Jiang, and Roland Memisevic. "[Generating images with recurrent adversarial networks](http://arxiv.org/abs/1602.05110)." arXiv preprint arXiv:1602.05110 (2016).
  - Yu, Lantao, Weinan Zhang, Jun Wang, and Yong Yu. "[SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](http://arxiv.org/abs/1609.05473)." arXiv preprint arXiv:1609.05473 (2016).
  - Augustus Odena, Christopher Olah, Jonathon Shlens. "[Conditional Image Synthesis With Auxiliary Classifier GANs](https://arxiv.org/abs/1610.09585)." arXiv preprint arXiv:1610.09585 (2016).
+ - Ian Goodfellow. "[NIPS Tutorial: GANs](http://www.iangoodfellow.com/slides/2016-12-04-NIPS.pdf)", NIPS, 2016
  
 
 ### Music Generation
