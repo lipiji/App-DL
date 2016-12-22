@@ -135,6 +135,12 @@
  - Augustus Odena, Christopher Olah, Jonathon Shlens. "[Conditional Image Synthesis With Auxiliary Classifier GANs](https://arxiv.org/abs/1610.09585)." arXiv preprint arXiv:1610.09585 (2016).
  - Ian Goodfellow. "[NIPS Tutorial: GANs](http://www.iangoodfellow.com/slides/2016-12-04-NIPS.pdf)", NIPS, 2016
  
+### Recommendation System
+
+- Zhang, Fuzheng, Nicholas Jing Yuan, Defu Lian, Xing Xie, and Wei-Ying Ma. "[Collaborative Knowledge Base Embedding for Recommender Systems](http://www.kdd.org/kdd2016/subtopic/view/collaborative-knowledge-base-embedding-for-recommender-systems)." KDD, 2016. 
+- He, Xiangnan. "[Neural Collaborative Filtering](http://www.comp.nus.edu.sg/~xiangnan/papers/ncf.pdf)." WWW, 2017
+
+
 
 ### Music Generation
  - [Using machine learning to generate music](http://www.datasciencecentral.com/profiles/blogs/using-machine-learning-to-generate-music)
