@@ -137,8 +137,14 @@
  
 ### Recommendation System
 
+- Wang, Hao, Xingjian Shi, and Dit-Yan Yeung. "[Relational Stacked Denoising Autoencoder for Tag Recommendation](http://www.wanghao.in/paper/AAAI15_RSDAE.pdf)." In AAAI, pp. 3052-3058. 2015.
+- Wang, Hao, Naiyan Wang, and Dit-Yan Yeung. "[Collaborative deep learning for recommender systems](http://dl.acm.org/citation.cfm?id=2783273)." In Proceedings of the 21th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, pp. 1235-1244. ACM, 2015.
+- Covington, Paul, Jay Adams, and Emre Sargin. "[Deep neural networks for youtube recommendations](http://dl.acm.org/citation.cfm?id=2959190)." In Proceedings of the 10th ACM Conference on Recommender Systems, pp. 191-198. ACM, 2016.
+- Devooght, Robin, and Hugues Bersini. "[Collaborative Filtering with Recurrent Neural Networks](https://arxiv.org/abs/1608.07400)." arXiv preprint arXiv:1608.07400 (2016).
+- Wang, Hao, S. H. I. Xingjian, and Dit-Yan Yeung. "[Collaborative recurrent autoencoder: Recommend while learning to fill in the blanks](http://papers.nips.cc/paper/6163-collaborative-recurrent-autoencoder-recommend-while-learning-to-fill-in-the-blanks)." In Advances in Neural Information Processing Systems, pp. 415-423. 2016.
 - Zhang, Fuzheng, Nicholas Jing Yuan, Defu Lian, Xing Xie, and Wei-Ying Ma. "[Collaborative Knowledge Base Embedding for Recommender Systems](http://www.kdd.org/kdd2016/subtopic/view/collaborative-knowledge-base-embedding-for-recommender-systems)." KDD, 2016. 
 - He, Xiangnan. "[Neural Collaborative Filtering](http://www.comp.nus.edu.sg/~xiangnan/papers/ncf.pdf)." WWW, 2017
+- Wu, Chao-Yuan, Amr Ahmed, Alex Beutel, Alexander J. Smola, and How Jing. "[Recurrent Recommender Networks](http://alexbeutel.com/papers/rrn_wsdm2017.pdf)." Training 10, no. 2: 10-1.2017
 
 
 
