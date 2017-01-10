@@ -136,7 +136,7 @@
  - Ian Goodfellow. "[NIPS Tutorial: GANs](http://www.iangoodfellow.com/slides/2016-12-04-NIPS.pdf)", NIPS, 2016
  
 ### Recommendation System
-
+- Salakhutdinov, Ruslan, Andriy Mnih, and Geoffrey Hinton. "[Restricted Boltzmann machines for collaborative filtering](http://dl.acm.org/citation.cfm?id=1273596)." In Proceedings of the 24th international conference on Machine learning, pp. 791-798. ACM, 2007.
 - Wang, Hao, Xingjian Shi, and Dit-Yan Yeung. "[Relational Stacked Denoising Autoencoder for Tag Recommendation](http://www.wanghao.in/paper/AAAI15_RSDAE.pdf)." In AAAI, pp. 3052-3058. 2015.
 - Wang, Hao, Naiyan Wang, and Dit-Yan Yeung. "[Collaborative deep learning for recommender systems](http://dl.acm.org/citation.cfm?id=2783273)." In Proceedings of the 21th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, pp. 1235-1244. ACM, 2015.
 - Covington, Paul, Jay Adams, and Emre Sargin. "[Deep neural networks for youtube recommendations](http://dl.acm.org/citation.cfm?id=2959190)." In Proceedings of the 10th ACM Conference on Recommender Systems, pp. 191-198. ACM, 2016.
