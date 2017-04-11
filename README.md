@@ -44,8 +44,7 @@
   - Ramesh Nallapati, Feifei Zhai, Bowen Zhou. [SummaRuNNer: A Recurrent Neural Network based Sequence Model for Extractive Summarization of Documents](https://arxiv.org/abs/1611.04230). In AAAI, 2017.
   - Ramesh Nallapati, Bowen Zhou, Mingbo Ma. "[Classify or Select: Neural Architectures for Extractive Document Summarization](https://arxiv.org/abs/1611.04244)." arXiv preprint arXiv:1611.04244 (2016).
   - Suzuki, Jun, and Masaaki Nagata. "[Cutting-off Redundant Repeating Generations for Neural Abstractive Summarization](http://www.aclweb.org/anthology/E17-2047)." EACL 2017 (2017): 291.
-  - 
-  - Jiwei Tan and Xiaojun Wan. [Abstractive Document Summarization with a Graph-Based Attentional Neural Model](). ACL, 2017.
+  - Jiwei Tan and Xiaojun Wan. [Abstractive Document Summarization with a Graph-Based Attentional Neural Model](). ACL, 2017.
   - Preksha Nema, Mitesh M. Khapra, Balaraman Ravindran and Anirban Laha. [Diversity driven attention model for query-based abstractive summarization](). ACL,2017
   - Abigail See, Peter J. Liu and Christopher D. Manning. [Get To The Point: Summarization with Pointer-Generator Networks](). ACL, 2017.
   - Qingyu Zhou, Nan Yang, Furu Wei and Ming Zhou. [Selective Encoding for Abstractive Sentence Summarization](). ACL, 2017
@@ -54,7 +53,7 @@
 ### Opinion Summarization
   - Wu, Haibing, Yiwei Gu, Shangdi Sun, and Xiaodong Gu. "[Aspect-based Opinion Summarization with Convolutional Neural Networks](http://arxiv.org/abs/1511.09128)." arXiv preprint arXiv:1511.09128 (2015).
   - Irsoy, Ozan, and Claire Cardie. "[Opinion Mining with Deep Recurrent Neural Networks](http://anthology.aclweb.org/D/D14/D14-1080.pdf)." In EMNLP, pp. 720-728. 2014.
-  - Piji Li, Zihao Wang, Zhaochun Ren, Lidong Bing, Wai Lam. "[Neural Rating Regression with Abstractive Tips Generation for Recommendation]().". In SIGIR, pp xx-xx. 2017.
+  - Piji Li, Zihao Wang, Zhaochun Ren, Lidong Bing, Wai Lam. "[Neural Rating Regression with Abstractive Tips Generation for Recommendation]().". In SIGIR, pp xx-xx. 2017.
 
 ### Reading Comprehension
  - Hermann, Karl Moritz, Tomas Kocisky, Edward Grefenstette, Lasse Espeholt, Will Kay, Mustafa Suleyman, and Phil Blunsom. "[Teaching machines to read and comprehend](http://papers.nips.cc/paper/5945-teaching-machines-to-read-and-comprehend)." In Advances in Neural Information Processing Systems, pp. 1693-1701. 2015.
