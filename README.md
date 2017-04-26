@@ -118,7 +118,6 @@
  - Yingce Xia, Di He, Tao Qin, Liwei Wang, Nenghai Yu, Tie-Yan Liu, Wei-Ying Ma. "[Dual Learning for Machine Translation](https://arxiv.org/abs/1611.00179)." arXiv preprint  arXiv:1611.00179 (2016).
  - Li, Jiwei, Will Monroe, Tianlin Shi, Alan Ritter, and Dan Jurafsky. "[Adversarial Learning for Neural Dialogue Generation](https://arxiv.org/abs/1701.06547)." arXiv preprint arXiv:1701.06547 (2017).
  - Lijun Wu, Yingce Xia, Li Zhao, Fei Tian, Tao Qin, Jianhuang Lai, Tie-Yan Liu. "[Adversarial Neural Machine Translation](https://arxiv.org/abs/1704.06933)." IJCAI (2017).
- 
  - 【VAE】:
  - Rezende, Danilo Jimenez, Shakir Mohamed, and Daan Wierstra. "[Stochastic backpropagation and approximate inference in deep generative models](http://arxiv.org/abs/1401.4082)." arXiv preprint arXiv:1401.4082 (2014).
  - Kingma, Diederik P., and Max Welling. "[Auto-encoding variational bayes](http://arxiv.org/abs/1312.6114)." arXiv preprint arXiv:1312.6114 (2013).
@@ -131,7 +130,6 @@
  - Doersch, Carl. "[Tutorial on Variational Autoencoders](https://arxiv.org/abs/1606.05908)." arXiv preprint arXiv:1606.05908 (2016).
  - Chung, Junyoung, Kyle Kastner, Laurent Dinh, Kratarth Goel, Aaron C. Courville, and Yoshua Bengio. "[A recurrent latent variable model for sequential data](http://arxiv.org/abs/1506.02216)." In Advances in neural information processing systems, pp. 2980-2988. 2015.
  - Eslami, S. M., Nicolas Heess, Theophane Weber, Yuval Tassa, Koray Kavukcuoglu, and Geoffrey E. Hinton. "[Attend, Infer, Repeat: Fast Scene Understanding with Generative Models](https://arxiv.org/abs/1603.08575)." arXiv preprint arXiv:1603.08575 (2016).
- 
  - 【GAN】:
  - Goodfellow, Ian, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, and Yoshua Bengio. "[Generative adversarial nets](http://arxiv.org/abs/1406.2661)." In Advances in Neural Information Processing Systems, pp. 2672-2680. 2014
  - Radford, Alec, Luke Metz, and Soumith Chintala. "[Unsupervised representation learning with deep convolutional generative adversarial networks](http://arxiv.org/abs/1511.06434)." arXiv preprint arXiv:1511.06434 (2015).
