@@ -116,6 +116,7 @@
  - Xiang Li, Tao Qin, Jian Yang, Tie-Yan Liu. "[LightRNN: Memory and Computation-Efficient Recurrent Neural Networks](https://arxiv.org/abs/1610.09893)." arXiv preprint  arXiv:1610.09893 (2016).
  - Zhaopeng Tu, Yang Liu, Lifeng Shang, Xiaohua Liu, Hang Li. "[Neural Machine Translation with Reconstruction](https://arxiv.org/abs/1611.01874)." arXiv preprint  arXiv:1611.01874 (2016).
  - Yingce Xia, Di He, Tao Qin, Liwei Wang, Nenghai Yu, Tie-Yan Liu, Wei-Ying Ma. "[Dual Learning for Machine Translation](https://arxiv.org/abs/1611.00179)." arXiv preprint  arXiv:1611.00179 (2016).
+ - Kannan, Anjuli, and Oriol Vinyals. "[Adversarial evaluation of dialogue models](https://arxiv.org/abs/1701.08198)." arXiv preprint arXiv:1701.08198 (2017).
  - Li, Jiwei, Will Monroe, Tianlin Shi, Alan Ritter, and Dan Jurafsky. "[Adversarial Learning for Neural Dialogue Generation](https://arxiv.org/abs/1701.06547)." arXiv preprint arXiv:1701.06547 (2017).
  - Lijun Wu, Yingce Xia, Li Zhao, Fei Tian, Tao Qin, Jianhuang Lai, Tie-Yan Liu. "[Adversarial Neural Machine Translation](https://arxiv.org/abs/1704.06933)." IJCAI (2017).
  - 【VAE】:
