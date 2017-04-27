@@ -155,6 +155,7 @@
 - Zhang, Fuzheng, Nicholas Jing Yuan, Defu Lian, Xing Xie, and Wei-Ying Ma. "[Collaborative Knowledge Base Embedding for Recommender Systems](http://www.kdd.org/kdd2016/subtopic/view/collaborative-knowledge-base-embedding-for-recommender-systems)." KDD, 2016. 
 - He, Xiangnan. "[Neural Collaborative Filtering](http://www.comp.nus.edu.sg/~xiangnan/papers/ncf.pdf)." WWW, 2017
 - Wu, Chao-Yuan, Amr Ahmed, Alex Beutel, Alexander J. Smola, and How Jing. "[Recurrent Recommender Networks](http://alexbeutel.com/papers/rrn_wsdm2017.pdf)." Training 10, no. 2: 10-1.2017
+- Piji Li, Zihao Wang, Zhaochun Ren, Lidong Bing, Wai Lam. "[Neural Rating Regression with Abstractive Tips Generation for Recommendation]().". In SIGIR, pp xx-xx. 2017.
 
 
 
