@@ -118,6 +118,7 @@
  - Yingce Xia, Di He, Tao Qin, Liwei Wang, Nenghai Yu, Tie-Yan Liu, Wei-Ying Ma. "[Dual Learning for Machine Translation](https://arxiv.org/abs/1611.00179)." arXiv preprint  arXiv:1611.00179 (2016).
  - Kannan, Anjuli, and Oriol Vinyals. "[Adversarial evaluation of dialogue models](https://arxiv.org/abs/1701.08198)." arXiv preprint arXiv:1701.08198 (2017).
  - Li, Jiwei, Will Monroe, Tianlin Shi, Alan Ritter, and Dan Jurafsky. "[Adversarial Learning for Neural Dialogue Generation](https://arxiv.org/abs/1701.06547)." arXiv preprint arXiv:1701.06547 (2017).
+ - Yang, Zhen, Wei Chen, Feng Wang, and Bo Xu. "[Improving Neural Machine Translation with Conditional Sequence Generative Adversarial Nets](https://arxiv.org/abs/1703.04887)." arXiv preprint arXiv:1703.04887 (2017).
  - Lijun Wu, Yingce Xia, Li Zhao, Fei Tian, Tao Qin, Jianhuang Lai, Tie-Yan Liu. "[Adversarial Neural Machine Translation](https://arxiv.org/abs/1704.06933)." IJCAI (2017).
  - Liu, Pengfei, Xipeng Qiu, and Xuanjing Huang. "[Adversarial Multi-task Learning for Text Classification](https://arxiv.org/abs/1704.05742)." arXiv preprint arXiv:1704.05742 (2017).
  - 【VAE】:
