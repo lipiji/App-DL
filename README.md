@@ -117,6 +117,7 @@
  - Zhaopeng Tu, Yang Liu, Lifeng Shang, Xiaohua Liu, Hang Li. "[Neural Machine Translation with Reconstruction](https://arxiv.org/abs/1611.01874)." arXiv preprint  arXiv:1611.01874 (2016).
  - Yingce Xia, Di He, Tao Qin, Liwei Wang, Nenghai Yu, Tie-Yan Liu, Wei-Ying Ma. "[Dual Learning for Machine Translation](https://arxiv.org/abs/1611.00179)." arXiv preprint  arXiv:1611.00179 (2016).
  - Kannan, Anjuli, and Oriol Vinyals. "[Adversarial evaluation of dialogue models](https://arxiv.org/abs/1701.08198)." arXiv preprint arXiv:1701.08198 (2017).
+ - Kawthekar, Prasad, Raunaq Rewari, and Suvrat Bhooshan. "[Evaluating Generative Models for Text Generation](https://web.stanford.edu/class/cs224n/reports/2737434.pdf)."
  - Li, Jiwei, Will Monroe, Tianlin Shi, Alan Ritter, and Dan Jurafsky. "[Adversarial Learning for Neural Dialogue Generation](https://arxiv.org/abs/1701.06547)." arXiv preprint arXiv:1701.06547 (2017).
  - Yang, Zhen, Wei Chen, Feng Wang, and Bo Xu. "[Improving Neural Machine Translation with Conditional Sequence Generative Adversarial Nets](https://arxiv.org/abs/1703.04887)." arXiv preprint arXiv:1703.04887 (2017).
  - Lijun Wu, Yingce Xia, Li Zhao, Fei Tian, Tao Qin, Jianhuang Lai, Tie-Yan Liu. "[Adversarial Neural Machine Translation](https://arxiv.org/abs/1704.06933)." IJCAI (2017).
