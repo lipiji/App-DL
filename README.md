@@ -146,6 +146,7 @@
  - Yu, Lantao, Weinan Zhang, Jun Wang, and Yong Yu. "[SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](http://arxiv.org/abs/1609.05473)." arXiv preprint arXiv:1609.05473 (2016).
  - Augustus Odena, Christopher Olah, Jonathon Shlens. "[Conditional Image Synthesis With Auxiliary Classifier GANs](https://arxiv.org/abs/1610.09585)." arXiv preprint arXiv:1610.09585 (2016).
  - Ian Goodfellow. "[NIPS Tutorial: GANs](http://www.iangoodfellow.com/slides/2016-12-04-NIPS.pdf)", NIPS, 2016
+ - Che, Tong, Yanran Li, Ruixiang Zhang, R. Devon Hjelm, Wenjie Li, Yangqiu Song, and Yoshua Bengio. "[Maximum-Likelihood Augmented Discrete Generative Adversarial Networks](https://arxiv.org/abs/1702.07983)." arXiv preprint arXiv:1702.07983 (2017).
  
 ### Recommendation System
 - Salakhutdinov, Ruslan, Andriy Mnih, and Geoffrey Hinton. "[Restricted Boltzmann machines for collaborative filtering](http://dl.acm.org/citation.cfm?id=1273596)." In Proceedings of the 24th international conference on Machine learning, pp. 791-798. ACM, 2007.
