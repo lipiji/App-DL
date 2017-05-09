@@ -67,6 +67,8 @@
  - Yiming Cui, Zhipeng Chen, Si Wei, Shijin Wang, Ting Liu, Guoping Hu. "[Attention-over-Attention Neural Networks for Reading Comprehension](http://arxiv.org/abs/1607.04423)." arXiv preprint arXiv:1607.04423 (2016).
  - Yiming Cui, Ting Liu, Zhipeng Chen, Shijin Wang, Guoping Hu. "[Consensus Attention-based Neural Networks for Chinese Reading Comprehension](https://arxiv.org/abs/1607.02250)." arXiv preprint arXiv:1607.02250 (2016).
  - Daniel Hewlett, Alexandre Lacoste, Llion Jones, Illia Polosukhin, Andrew Fandrianto, Jay Han, Matthew Kelcey and David Berthelot. "[WIKIREADING: A Novel Large-scale Language Understanding Task over Wikipedia](http://www.aclweb.org/anthology/P/P16/P16-1145.pdf)." ACL (2016). pp. 1535-1545.
+  - Minghao Hu, Yuxing Peng, Xipeng Qiu. "[Mnemonic Reader for Machine Comprehension](https://arxiv.org/abs/1705.02798)." arXiv:1705.02798 (2017).
+  - Wenhui Wang, Nan Yang, Furu Wei, Baobao Chang and Ming Zhou. "[R-NET: Machine Reading Comprehension with Self-matching Networks](https://www.microsoft.com/en-us/research/publication/mcr/)." ACL (2017).
   
 
 ### Sentence Modelling
