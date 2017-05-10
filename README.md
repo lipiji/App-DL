@@ -124,7 +124,7 @@
  - Yang, Zhen, Wei Chen, Feng Wang, and Bo Xu. "[Improving Neural Machine Translation with Conditional Sequence Generative Adversarial Nets](https://arxiv.org/abs/1703.04887)." arXiv preprint arXiv:1703.04887 (2017).
  - Lijun Wu, Yingce Xia, Li Zhao, Fei Tian, Tao Qin, Jianhuang Lai, Tie-Yan Liu. "[Adversarial Neural Machine Translation](https://arxiv.org/abs/1704.06933)." IJCAI (2017).
  - Liu, Pengfei, Xipeng Qiu, and Xuanjing Huang. "[Adversarial Multi-task Learning for Text Classification](https://arxiv.org/abs/1704.05742)." arXiv preprint arXiv:1704.05742 (2017).
-  -Jonas Gehring, Michael Auli, David Grangier, Denis Yarats, Yann N. Dauphin. "[Convolutional Sequence to Sequence Learning (https://arxiv.org/abs/1705.03122)."  arXiv:1705.03122 (2017).
+ - Jonas Gehring, Michael Auli, David Grangier, Denis Yarats, Yann N. Dauphin. "[Convolutional Sequence to Sequence Learning (https://arxiv.org/abs/1705.03122)."  arXiv:1705.03122 (2017).
  - 【VAE】:
  - Rezende, Danilo Jimenez, Shakir Mohamed, and Daan Wierstra. "[Stochastic backpropagation and approximate inference in deep generative models](http://arxiv.org/abs/1401.4082)." arXiv preprint arXiv:1401.4082 (2014).
  - Kingma, Diederik P., and Max Welling. "[Auto-encoding variational bayes](http://arxiv.org/abs/1312.6114)." arXiv preprint arXiv:1312.6114 (2013).
