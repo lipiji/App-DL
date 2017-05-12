@@ -50,6 +50,7 @@
   - Qingyu Zhou, Nan Yang, Furu Wei and Ming Zhou. [Selective Encoding for Abstractive Sentence Summarization](https://arxiv.org/abs/1704.07073). ACL, 2017
   - Maxime Peyrard and Judith Eckle-Kohler. [Supervised Learning of Automatic Pyramid for Optimization-Based Multi-Document Summarization](). ACL, 2017.
   - Shashi Narayan, Nikos Papasarantopoulos, Mirella Lapata, Shay B. Cohen. "[Neural Extractive Summarization with Side Information](https://arxiv.org/abs/1704.04530)." arXiv preprint arXiv:1704.04530 (2017).
+  - Romain Paulus, Caiming Xiong, Richard Socher. "[A Deep Reinforced Model for Abstractive Summarization](https://metamind.io/static/pdf/deep-reinforced-model-arxiv-v1.pdf)." (2017).
 
 ### Opinion Summarization
   - Wu, Haibing, Yiwei Gu, Shangdi Sun, and Xiaodong Gu. "[Aspect-based Opinion Summarization with Convolutional Neural Networks](http://arxiv.org/abs/1511.09128)." arXiv preprint arXiv:1511.09128 (2015).
