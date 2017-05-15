@@ -161,8 +161,10 @@
 - Wang, Hao, S. H. I. Xingjian, and Dit-Yan Yeung. "[Collaborative recurrent autoencoder: Recommend while learning to fill in the blanks](http://papers.nips.cc/paper/6163-collaborative-recurrent-autoencoder-recommend-while-learning-to-fill-in-the-blanks)." In Advances in Neural Information Processing Systems, pp. 415-423. 2016.
 - Tang, Jian, Yifan Yang, Sam Carton, Ming Zhang, and Qiaozhu Mei. "[Context-aware Natural Language Generation with Recurrent Neural Networks](https://arxiv.org/abs/1611.09900)." arXiv preprint arXiv:1611.09900 (2016).
 - Zhang, Fuzheng, Nicholas Jing Yuan, Defu Lian, Xing Xie, and Wei-Ying Ma. "[Collaborative Knowledge Base Embedding for Recommender Systems](http://www.kdd.org/kdd2016/subtopic/view/collaborative-knowledge-base-embedding-for-recommender-systems)." KDD, 2016. 
+- Dong, Li, Shaohan Huang, Furu Wei, Mirella Lapata, Ming Zhou, and Ke XuΤ. "[Learning to Generate Product Reviews from Attributes](http://www.aclweb.org/anthology/E/E17/E17-1059.pdf)." EACL, 2017.
 - He, Xiangnan. "[Neural Collaborative Filtering](http://www.comp.nus.edu.sg/~xiangnan/papers/ncf.pdf)." WWW, 2017
 - Wu, Chao-Yuan, Amr Ahmed, Alex Beutel, Alexander J. Smola, and How Jing. "[Recurrent Recommender Networks](http://alexbeutel.com/papers/rrn_wsdm2017.pdf)." Training 10, no. 2: 10-1.2017
+- Radford, Alec, Rafal Jozefowicz, and Ilya Sutskever. "[Learning to generate reviews and discovering sentiment](https://arxiv.org/pdf/1704.01444.pdf)." arXiv preprint arXiv:1704.01444 (2017).
 - Piji Li, Zihao Wang, Zhaochun Ren, Lidong Bing, Wai Lam. "[Neural Rating Regression with Abstractive Tips Generation for Recommendation]().". In SIGIR, pp xx-xx. 2017.
 
 
