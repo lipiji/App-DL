@@ -38,7 +38,8 @@
   - Qian Chen, Xiaodan Zhu, Zhenhua Ling, Si Wei and Hui Jiang. "[Distraction-Based Neural Networks for Document Summarization](https://arxiv.org/abs/1610.08462)." IJCAI 2016.
   - Wang, Lu, and Wang Ling. "[Neural Network-Based Abstract Generation for Opinions and Arguments](http://www.ccs.neu.edu/home/luwang/papers/NAACL2016.pdf)." NAACL 2016.
   - Yishu Miao, Phil Blunsom. "[Language as a Latent Variable: Discrete Generative Models for Sentence Compression](http://arxiv.org/abs/1609.07317)." EMNLP 2016.
-  - Hongya Song, Zhaochun Ren, Piji Li, Shangsong Liang, Jun Ma, and Maarten de Rijke. [Summarizing Answers in Non-Factoid Community Question-Answering](). In WSDM 2017: The 10th International Conference on Web Search and Data Mining, 2017.
+  - Takase, Sho, Jun Suzuki, Naoaki Okazaki, Tsutomu Hirao, and Masaaki Nagata. "[Neural headline generation on abstract meaning representation](https://www.aclweb.org/anthology/D/D16/D16-1112.pdf)." EMNLP, pp. 1054-1059. 2016.
+  - Hongya Song, Zhaochun Ren, Piji Li, Shangsong Liang, Jun Ma, and Maarten de Rijke. [Summarizing Answers in Non-Factoid Community Question-Answering](http://dl.acm.org/citation.cfm?id=3018704). In WSDM 2017: The 10th International Conference on Web Search and Data Mining, 2017.
   - Wenyuan Zeng, Wenjie Luo, Sanja Fidler, Raquel Urtasun. "[Efficient Summarization with Read-Again and Copy Mechanism](https://arxiv.org/abs/1611.03382)." arXiv preprint arXiv:1611.03382 (2016).
   - Piji Li, Zihao Wang, Wai Lam, Zhaochun Ren, Lidong Bing. "[Salience Estimation via Variational Auto-Encoders for Multi-Document Summarization](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14613)". In AAAI, 2017.
   - Ramesh Nallapati, Feifei Zhai, Bowen Zhou. [SummaRuNNer: A Recurrent Neural Network based Sequence Model for Extractive Summarization of Documents](https://arxiv.org/abs/1611.04230). In AAAI, 2017.
