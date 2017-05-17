@@ -168,7 +168,8 @@
 - Radford, Alec, Rafal Jozefowicz, and Ilya Sutskever. "[Learning to generate reviews and discovering sentiment](https://arxiv.org/pdf/1704.01444.pdf)." arXiv preprint arXiv:1704.01444 (2017).
 - Piji Li, Zihao Wang, Zhaochun Ren, Lidong Bing, Wai Lam. "[Neural Rating Regression with Abstractive Tips Generation for Recommendation]().". In SIGIR, pp xx-xx. 2017.
 
-
+### Network Representation Learning
+ - [Must-read papers on network representation learning (NRL)/network embedding (NE)](https://github.com/thunlp/NRLPapers) 
 
 ### Music Generation
  - [Using machine learning to generate music](http://www.datasciencecentral.com/profiles/blogs/using-machine-learning-to-generate-music)
