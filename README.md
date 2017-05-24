@@ -32,6 +32,7 @@
   - Sumit Chopra, Alexander M. Rush and Michael Auli. "[Abstractive Sentence Summarization with Attentive Recurrent Neural Networks](http://harvardnlp.github.io/papers/naacl16_summary.pdf)" NAACL 2016.
   - Jiatao Gu, Zhengdong Lu, Hang Li, Victor O.K. Li. "[Incorporating Copying Mechanism in Sequence-to-Sequence Learning](http://arxiv.org/abs/1603.06393)." ACL. (2016)
   - Jianpeng Cheng, Mirella Lapata. "[Neural Summarization by Extracting Sentences and Words](http://arxiv.org/abs/1603.07252)". ACL. (2016)
+  - Zhang, Jianmin, Jin-ge Yao, and Xiaojun Wan. "[Toward constructing sports news from live text commentary](http://www.icst.pku.edu.cn/lcwm/wanxj/files/acl16_sports.pdf)." In Proceedings of ACL. 2016.
   - Ziqiang Cao, Wenjie Li, Sujian Li, Furu Wei. "[AttSum: Joint Learning of Focusing and Summarization with Neural Attention](http://arxiv.org/abs/1604.00125)".  arXiv:1604.00125 (2016)
   - Ayana, Shiqi Shen, Zhiyuan Liu, Maosong Sun. "[Neural Headline Generation with Sentence-wise Optimization](http://arxiv.org/abs/1604.01904)". arXiv:1604.01904 (2016)
   - Kikuchi, Yuta, Graham Neubig, Ryohei Sasano, Hiroya Takamura, and Manabu Okumura. "[Controlling Output Length in Neural Encoder-Decoders](https://arxiv.org/abs/1609.09552)." arXiv preprint arXiv:1609.09552 (2016).
