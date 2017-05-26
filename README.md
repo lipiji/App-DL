@@ -110,6 +110,7 @@
  - Srivastava, Rupesh K., Klaus Greff, and Jürgen Schmidhuber. "[Training very deep networks](http://arxiv.org/abs/1507.06228)." In Advances in Neural Information Processing Systems, pp. 2368-2376. 2015.
  - Vinyals, Oriol, Meire Fortunato, and Navdeep Jaitly. "[Pointer networks](https://arxiv.org/abs/1506.03134)." In Advances in Neural Information Processing Systems, pp. 2692-2700. 2015.
  - Rasmus, Antti, Mathias Berglund, Mikko Honkala, Harri Valpola, and Tapani Raiko. "[Semi-supervised learning with ladder networks](http://arxiv.org/abs/1507.02672)." In Advances in Neural Information Processing Systems, pp. 3546-3554. 2015.
+ - Bengio, Samy, Oriol Vinyals, Navdeep Jaitly, and Noam Shazeer. "[Scheduled sampling for sequence prediction with recurrent neural networks](https://arxiv.org/abs/1506.03099)." In Advances in Neural Information Processing Systems, pp. 1171-1179. 2015.
  - He, Kaiming, Xiangyu Zhang, Shaoqing Ren, and Jian Sun. "[Deep Residual Learning for Image Recognition](http://arxiv.org/abs/1512.03385)." arXiv preprint arXiv:1512.03385 (2015).
  - He, Kaiming. "[Tutorial: Deep	Residual	Networks: Deep	Learning	Gets	Way Deeper](http://icml.cc/2016/tutorials/icml2016_tutorial_deep_residual_networks_kaiminghe.pdf)." ICML	2016	tutorial.
  - Courbariaux, Matthieu, and Yoshua Bengio. "[Binarynet: Training deep neural networks with weights and activations constrained to+ 1 or-1](http://arxiv.org/abs/1602.02830)." arXiv preprint arXiv:1602.02830 (2016). 
@@ -121,6 +122,7 @@
  - Xiang Li, Tao Qin, Jian Yang, Tie-Yan Liu. "[LightRNN: Memory and Computation-Efficient Recurrent Neural Networks](https://arxiv.org/abs/1610.09893)." arXiv preprint  arXiv:1610.09893 (2016).
  - Zhaopeng Tu, Yang Liu, Lifeng Shang, Xiaohua Liu, Hang Li. "[Neural Machine Translation with Reconstruction](https://arxiv.org/abs/1611.01874)." arXiv preprint  arXiv:1611.01874 (2016).
  - Yingce Xia, Di He, Tao Qin, Liwei Wang, Nenghai Yu, Tie-Yan Liu, Wei-Ying Ma. "[Dual Learning for Machine Translation](https://arxiv.org/abs/1611.00179)." arXiv preprint  arXiv:1611.00179 (2016).
+  - Bahdanau, Dzmitry, Philemon Brakel, Kelvin Xu, Anirudh Goyal, Ryan Lowe, Joelle Pineau, Aaron Courville, and Yoshua Bengio. "[An actor-critic algorithm for sequence prediction](https://arxiv.org/abs/1607.07086)." arXiv preprint arXiv:1607.07086 (2016).
  - Kannan, Anjuli, and Oriol Vinyals. "[Adversarial evaluation of dialogue models](https://arxiv.org/abs/1701.08198)." arXiv preprint arXiv:1701.08198 (2017).
  - Kawthekar, Prasad, Raunaq Rewari, and Suvrat Bhooshan. "[Evaluating Generative Models for Text Generation](https://web.stanford.edu/class/cs224n/reports/2737434.pdf)."
  - Li, Jiwei, Will Monroe, Tianlin Shi, Alan Ritter, and Dan Jurafsky. "[Adversarial Learning for Neural Dialogue Generation](https://arxiv.org/abs/1701.06547)." arXiv preprint arXiv:1701.06547 (2017).
