@@ -6,6 +6,7 @@
  - David Silver’s course. "[Reinforcement Learning](http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Teaching.html)". 2015.
  - Bahdanau, Dzmitry, Philemon Brakel, Kelvin Xu, Anirudh Goyal, Ryan Lowe, Joelle Pineau, Aaron Courville, and Yoshua Bengio. "[An Actor-Critic Algorithm for Sequence Prediction](http://arxiv.org/abs/1607.07086)." arXiv preprint arXiv:1607.07086 (2016).
  - Li, Jiwei, Will Monroe, Alan Ritter, and Dan Jurafsky. "[Deep Reinforcement Learning for Dialogue Generation](http://arxiv.org/abs/1606.01541)." arXiv preprint arXiv:1606.01541 (2016).
+ - Pathak, Deepak, Pulkit Agrawal, Alexei A. Efros, and Trevor Darrell. "[Curiosity-driven Exploration by Self-supervised Prediction](https://arxiv.org/abs/1705.05363)." arXiv preprint arXiv:1705.05363 (2017).
 
 
 ### Text Summarization
