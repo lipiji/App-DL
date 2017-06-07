@@ -54,7 +54,8 @@
   - Maxime Peyrard and Judith Eckle-Kohler. [Supervised Learning of Automatic Pyramid for Optimization-Based Multi-Document Summarization](). ACL, 2017.
   - Shashi Narayan, Nikos Papasarantopoulos, Mirella Lapata, Shay B. Cohen. "[Neural Extractive Summarization with Side Information](https://arxiv.org/abs/1704.04530)." arXiv preprint arXiv:1704.04530 (2017).
   - Romain Paulus, Caiming Xiong, Richard Socher. "[A Deep Reinforced Model for Abstractive Summarization](https://metamind.io/static/pdf/deep-reinforced-model-arxiv-v1.pdf)." (2017).
-
+  - Ramesh Nallapati, Bowen Zhou, Mingbo Ma. "[Text Summarization using Abstract Meaning Representation](https://arxiv.org/abs/1706.01678)." 	arXiv:1706.01678 (2017).
+ 
 ### Opinion Summarization
   - Wu, Haibing, Yiwei Gu, Shangdi Sun, and Xiaodong Gu. "[Aspect-based Opinion Summarization with Convolutional Neural Networks](http://arxiv.org/abs/1511.09128)." arXiv preprint arXiv:1511.09128 (2015).
   - Irsoy, Ozan, and Claire Cardie. "[Opinion Mining with Deep Recurrent Neural Networks](http://anthology.aclweb.org/D/D14/D14-1080.pdf)." In EMNLP, pp. 720-728. 2014.
