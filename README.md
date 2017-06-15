@@ -133,7 +133,6 @@
  - Liu, Pengfei, Xipeng Qiu, and Xuanjing Huang. "[Adversarial Multi-task Learning for Text Classification](https://arxiv.org/abs/1704.05742)." arXiv preprint arXiv:1704.05742 (2017).
  - Jonas Gehring, Michael Auli, David Grangier, Denis Yarats, Yann N. Dauphin. "[Convolutional Sequence to Sequence Learning (https://arxiv.org/abs/1705.03122)."  arXiv:1705.03122 (2017).
  - Lamb, Alex M., Anirudh Goyal ALIAS PARTH GOYAL, Ying Zhang, Saizheng Zhang, Aaron C. Courville, and Yoshua Bengio. "[Professor forcing: A new algorithm for training recurrent networks](https://arxiv.org/abs/1610.09038)." In Advances In Neural Information Processing Systems, pp. 4601-4609. 2016.
- - 【VAE】:
  - Rezende, Danilo Jimenez, Shakir Mohamed, and Daan Wierstra. "[Stochastic backpropagation and approximate inference in deep generative models](http://arxiv.org/abs/1401.4082)." arXiv preprint arXiv:1401.4082 (2014).
  - Kingma, Diederik P., and Max Welling. "[Auto-encoding variational bayes](http://arxiv.org/abs/1312.6114)." arXiv preprint arXiv:1312.6114 (2013).
  - Fabius, Otto, and Joost R. van Amersfoort. "[Variational recurrent auto-encoders](https://arxiv.org/abs/1412.6581)." arXiv preprint arXiv:1412.6581 (2014).
@@ -146,7 +145,6 @@
  - Chung, Junyoung, Kyle Kastner, Laurent Dinh, Kratarth Goel, Aaron C. Courville, and Yoshua Bengio. "[A recurrent latent variable model for sequential data](http://arxiv.org/abs/1506.02216)." In Advances in neural information processing systems, pp. 2980-2988. 2015.
  - Eslami, S. M., Nicolas Heess, Theophane Weber, Yuval Tassa, Koray Kavukcuoglu, and Geoffrey E. Hinton. "[Attend, Infer, Repeat: Fast Scene Understanding with Generative Models](https://arxiv.org/abs/1603.08575)." arXiv preprint arXiv:1603.08575 (2016).
  - Shengjia Zhao, Jiaming Song, Stefano Ermon. "[InfoVAE: Information Maximizing Variational Autoencoders](https://arxiv.org/abs/1706.02262)." arXiv:1706.02262 (2017).
- - 【GAN】:
  - Goodfellow, Ian, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, and Yoshua Bengio. "[Generative adversarial nets](http://arxiv.org/abs/1406.2661)." In Advances in Neural Information Processing Systems, pp. 2672-2680. 2014
  - Radford, Alec, Luke Metz, and Soumith Chintala. "[Unsupervised representation learning with deep convolutional generative adversarial networks](http://arxiv.org/abs/1511.06434)." arXiv preprint arXiv:1511.06434 (2015).
  - Denton, Emily L., Soumith Chintala, and Rob Fergus. "[Deep Generative Image Models using a￼ Laplacian Pyramid of Adversarial Networks](http://arxiv.org/abs/1506.05751)." In Advances in neural information processing systems, pp. 1486-1494. 2015.
@@ -159,6 +157,7 @@
  - Augustus Odena, Christopher Olah, Jonathon Shlens. "[Conditional Image Synthesis With Auxiliary Classifier GANs](https://arxiv.org/abs/1610.09585)." arXiv preprint arXiv:1610.09585 (2016).
  - Ian Goodfellow. "[NIPS Tutorial: GANs](http://www.iangoodfellow.com/slides/2016-12-04-NIPS.pdf)", NIPS, 2016
  - Che, Tong, Yanran Li, Ruixiang Zhang, R. Devon Hjelm, Wenjie Li, Yangqiu Song, and Yoshua Bengio. "[Maximum-Likelihood Augmented Discrete Generative Adversarial Networks](https://arxiv.org/abs/1702.07983)." arXiv preprint arXiv:1702.07983 (2017).
+ - Junbo (Jake) Zhao, Yoon Kim, Kelly Zhang, Alexander M. Rush, Yann LeCun. "[Adversarially Regularized Autoencoders for Generating Discrete Structures](https://arxiv.org/abs/1706.04223)." arXiv preprint arXiv:1706.04223 (2017).
  
 ### Recommendation System
 - Salakhutdinov, Ruslan, Andriy Mnih, and Geoffrey Hinton. "[Restricted Boltzmann machines for collaborative filtering](http://dl.acm.org/citation.cfm?id=1273596)." In Proceedings of the 24th international conference on Machine learning, pp. 791-798. ACM, 2007.
