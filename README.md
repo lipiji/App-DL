@@ -56,6 +56,8 @@
   - Romain Paulus, Caiming Xiong, Richard Socher. "[A Deep Reinforced Model for Abstractive Summarization](https://metamind.io/static/pdf/deep-reinforced-model-arxiv-v1.pdf)." (2017).
   - Shibhansh Dohare, Harish Karnick. "[Text Summarization using Abstract Meaning Representation](https://arxiv.org/abs/1706.01678)." 	arXiv:1706.01678 (2017).
   - Michihiro Yasunaga, Rui Zhang, Kshitijh Meelu, Ayush Pareek, Krishnan Srinivasan, Dragomir Radev. "[Graph-based Neural Multi-Document Summarization](https://arxiv.org/abs/1706.06681)." 	arXiv:1706.06681 (2017).
+  - Piji Li, Wai Lam, Lidong Bing, and Zihao Wang. [Deep Recurrent Generative Decoder for Abstractive Text Summarization](http://lipiji.com/). Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP'17). Sep 2017. 
+  - Piji Li, Wai Lam, Lidong Bing, Weiwei Guo, and Hang Li. [Cascaded Attention based Unsupervised Information Distillation for Compressive Summarization](http://lipiji.com/). Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP'17). Sep 2017.
  
 ### Opinion Summarization
   - Wu, Haibing, Yiwei Gu, Shangdi Sun, and Xiaodong Gu. "[Aspect-based Opinion Summarization with Convolutional Neural Networks](http://arxiv.org/abs/1511.09128)." arXiv preprint arXiv:1511.09128 (2015).
