@@ -180,7 +180,7 @@
 - He, Xiangnan. "[Neural Collaborative Filtering](http://www.comp.nus.edu.sg/~xiangnan/papers/ncf.pdf)." WWW, 2017
 - Wu, Chao-Yuan, Amr Ahmed, Alex Beutel, Alexander J. Smola, and How Jing. "[Recurrent Recommender Networks](http://alexbeutel.com/papers/rrn_wsdm2017.pdf)." Training 10, no. 2: 10-1.2017
 - Radford, Alec, Rafal Jozefowicz, and Ilya Sutskever. "[Learning to generate reviews and discovering sentiment](https://arxiv.org/pdf/1704.01444.pdf)." arXiv preprint arXiv:1704.01444 (2017).
-- Piji Li, Zihao Wang, Zhaochun Ren, Lidong Bing, Wai Lam. "[Neural Rating Regression with Abstractive Tips Generation for Recommendation]().". In SIGIR, pp xx-xx. 2017.
+- Piji Li, Zihao Wang, Zhaochun Ren, Lidong Bing, Wai Lam. "[Neural Rating Regression with Abstractive Tips Generation for Recommendation](https://arxiv.org/abs/1708.00154).". In SIGIR, pp xx-xx. 2017.
 
 ### Network Representation Learning
  - [Must-read papers on network representation learning (NRL)/network embedding (NE)](https://github.com/thunlp/NRLPapers) 
