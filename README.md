@@ -8,6 +8,8 @@
  - Li, Jiwei, Will Monroe, Alan Ritter, and Dan Jurafsky. "[Deep Reinforcement Learning for Dialogue Generation](http://arxiv.org/abs/1606.01541)." arXiv preprint arXiv:1606.01541 (2016).
  - Pathak, Deepak, Pulkit Agrawal, Alexei A. Efros, and Trevor Darrell. "[Curiosity-driven Exploration by Self-supervised Prediction](https://arxiv.org/abs/1705.05363)." arXiv preprint arXiv:1705.05363 (2017).
 
+### Text Generation
+- Wiseman, Sam, Stuart M. Shieber, and Alexander M. Rush. "[Challenges in Data-to-Document Generation](https://arxiv.org/abs/1707.08052)." arXiv preprint arXiv:1707.08052 (2017).
 
 ### Text Summarization
   - Ryang, Seonggi, and Takeshi Abekawa. "[Framework of automatic text summarization using reinforcement learning](http://dl.acm.org/citation.cfm?id=2390980)." In Proceedings of the 2012 Joint Conference on Empirical Methods in Natural Language Processing and Computational Natural Language Learning, pp. 256-265. Association for Computational Linguistics, 2012. [not neural-based methods]
