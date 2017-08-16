@@ -61,6 +61,7 @@
   - Piji Li, Wai Lam, Lidong Bing, and Zihao Wang. [Deep Recurrent Generative Decoder for Abstractive Text Summarization](http://lipiji.com/). Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP'17). Sep 2017. 
   - Piji Li, Wai Lam, Lidong Bing, Weiwei Guo, and Hang Li. [Cascaded Attention based Unsupervised Information Distillation for Compressive Summarization](http://lipiji.com/). Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP'17). Sep 2017.
   - Piji Li, Lidong Bing, Wai Lam. [Reader-Aware Multi-Document Summarization: An Enhanced Model and The First Dataset](http://www1.se.cuhk.edu.hk/~textmine/dataset/ra-mds/). Proceedings of the EMNLP 2017 Workshop on New Frontiers in Summarization (EMNLP-NewSum'17). Sep 2017.
+  - Tan, Jiwei, Xiaojun Wan, and Jianguo Xiao. "[From Neural Sentence Summarization to Headline Generation: A Coarse-to-Fine Approach](http://static.ijcai.org/proceedings-2017/0574.pdf)." IJCAI 2017.
  
 ### Opinion Summarization
   - Wu, Haibing, Yiwei Gu, Shangdi Sun, and Xiaodong Gu. "[Aspect-based Opinion Summarization with Convolutional Neural Networks](http://arxiv.org/abs/1511.09128)." arXiv preprint arXiv:1511.09128 (2015).
