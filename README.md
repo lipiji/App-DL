@@ -13,6 +13,7 @@
 - Wiseman, Sam, Stuart M. Shieber, and Alexander M. Rush. "[Challenges in Data-to-Document Generation](https://arxiv.org/abs/1707.08052)." arXiv preprint arXiv:1707.08052 (2017).
 - Lebret, Rémi, David Grangier, and Michael Auli. "[Neural text generation from structured data with application to the biography domain](https://arxiv.org/abs/1603.07771)." arXiv preprint arXiv:1603.07771 (2016).
 - Sha, Lei, Lili Mou, Tianyu Liu, Pascal Poupart, Sujian Li, Baobao Chang, and Zhifang Sui. "[Order-Planning Neural Text Generation From Structured Data](https://arxiv.org/abs/1709.00155)." arXiv preprint arXiv:1709.00155 (2017).
+- Jiaxian Guo, Sidi Lu, Han Cai, Weinan Zhang, Yong Yu, Jun Wang. "[Long Text Generation via Adversarial Training with Leaked Information](https://arxiv.org/abs/1709.08624)." arXiv preprint  arXiv:1709.08624 (2017).
 
 ### Text Summarization
   - Ryang, Seonggi, and Takeshi Abekawa. "[Framework of automatic text summarization using reinforcement learning](http://dl.acm.org/citation.cfm?id=2390980)." In Proceedings of the 2012 Joint Conference on Empirical Methods in Natural Language Processing and Computational Natural Language Learning, pp. 256-265. Association for Computational Linguistics, 2012. [not neural-based methods]
