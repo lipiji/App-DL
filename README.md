@@ -173,6 +173,8 @@
  - 	Mike Lewis  	Denis Yarats  	Yann N. Dauphin  	Devi Parikh  	Dhruv Batra . "[ Deal or No Deal? End-to-End Learning for Negotiation Dialogues](http://s3.amazonaws.com/end-to-end-negotiator/end-to-end-negotiator.pdf)." (2017).
  - Mihaela Rosca, Balaji Lakshminarayanan, David Warde-Farley, Shakir Mohamed. "[Variational Approaches for Auto-Encoding Generative Adversarial Networks](https://arxiv.org/abs/1706.04987)." arXiv preprint arXiv:1706.04987 (2017).
  
+ - Sabour, Sara, Nicholas Frosst, and Geoffrey Hinton. "[Dynamic Routing between Capsules](Dynamic Routing between Capsules)." (2017).
+ 
 ### Recommendation System
 - Salakhutdinov, Ruslan, Andriy Mnih, and Geoffrey Hinton. "[Restricted Boltzmann machines for collaborative filtering](http://dl.acm.org/citation.cfm?id=1273596)." In Proceedings of the 24th international conference on Machine learning, pp. 791-798. ACM, 2007.
 - Wang, Hao, Xingjian Shi, and Dit-Yan Yeung. "[Relational Stacked Denoising Autoencoder for Tag Recommendation](http://www.wanghao.in/paper/AAAI15_RSDAE.pdf)." In AAAI, pp. 3052-3058. 2015.
