@@ -172,7 +172,7 @@
  - Junbo (Jake) Zhao, Yoon Kim, Kelly Zhang, Alexander M. Rush, Yann LeCun. "[Adversarially Regularized Autoencoders for Generating Discrete Structures](https://arxiv.org/abs/1706.04223)." arXiv preprint arXiv:1706.04223 (2017).
  - 	Mike Lewis  	Denis Yarats  	Yann N. Dauphin  	Devi Parikh  	Dhruv Batra . "[ Deal or No Deal? End-to-End Learning for Negotiation Dialogues](http://s3.amazonaws.com/end-to-end-negotiator/end-to-end-negotiator.pdf)." (2017).
  - Mihaela Rosca, Balaji Lakshminarayanan, David Warde-Farley, Shakir Mohamed. "[Variational Approaches for Auto-Encoding Generative Adversarial Networks](https://arxiv.org/abs/1706.04987)." arXiv preprint arXiv:1706.04987 (2017).
- 
+ - Goyal, Prasoon, Zhiting Hu, Xiaodan Liang, Chenyu Wang, and Eric Xing. "[Nonparametric Variational Auto-encoders for Hierarchical Representation Learning](https://arxiv.org/pdf/1703.07027.pdf)." arXiv preprint arXiv:1703.07027 (2017).
  - Sabour, Sara, Nicholas Frosst, and Geoffrey Hinton. "[Dynamic Routing between Capsules](https://arxiv.org/abs/1710.09829)." (2017).
  
 ### Recommendation System
