@@ -10,6 +10,8 @@
 
 ### Text Generation
 - Rennie, Steven J., Etienne Marcheret, Youssef Mroueh, Jarret Ross, and Vaibhava Goel. "[Self-critical sequence training for image captioning](https://arxiv.org/abs/1612.00563)." arXiv preprint arXiv:1612.00563 (2016).
+- Lin, Kevin, Dianqi Li, Xiaodong He, Zhengyou Zhang, and Ming-Ting Sun. "[Adversarial Ranking for Language Generation](https://arxiv.org/pdf/1705.11001.pdf)." arXiv preprint arXiv:1705.11001 (2017).
+- Zhang, Li, Flood Sung, Feng Liu, Tao Xiang, Shaogang Gong, Yongxin Yang, and Timothy M. Hospedales. "[Actor-Critic Sequence Training for Image Captioning](https://arxiv.org/abs/1706.09601)." arXiv preprint arXiv:1706.09601 (2017).
 - Wiseman, Sam, Stuart M. Shieber, and Alexander M. Rush. "[Challenges in Data-to-Document Generation](https://arxiv.org/abs/1707.08052)." arXiv preprint arXiv:1707.08052 (2017).
 - Lebret, Rémi, David Grangier, and Michael Auli. "[Neural text generation from structured data with application to the biography domain](https://arxiv.org/abs/1603.07771)." arXiv preprint arXiv:1603.07771 (2016).
 - Sha, Lei, Lili Mou, Tianyu Liu, Pascal Poupart, Sujian Li, Baobao Chang, and Zhifang Sui. "[Order-Planning Neural Text Generation From Structured Data](https://arxiv.org/abs/1709.00155)." arXiv preprint arXiv:1709.00155 (2017).
