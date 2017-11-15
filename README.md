@@ -70,6 +70,8 @@
   - Piji Li, Lidong Bing, Wai Lam. [Reader-Aware Multi-Document Summarization: An Enhanced Model and The First Dataset](http://www1.se.cuhk.edu.hk/~textmine/dataset/ra-mds/). Proceedings of the EMNLP 2017 Workshop on New Frontiers in Summarization (EMNLP-NewSum'17). Sep 2017.
   - Tan, Jiwei, Xiaojun Wan, and Jianguo Xiao. "[From Neural Sentence Summarization to Headline Generation: A Coarse-to-Fine Approach](http://static.ijcai.org/proceedings-2017/0574.pdf)." IJCAI 2017.
   - Ling, Jeffrey, and Alexander M. Rush. "[Coarse-to-Fine Attention Models for Document Summarization](http://www.aclweb.org/anthology/W/W17/W17-4505.pdf)." EMNLP 2017 (2017): 33.
+  - Ziqiang Cao, Furu Wei, Wenjie Li, Sujian Li. "[Faithful to the Original: Fact Aware Neural Abstractive Summarization](https://arxiv.org/abs/1711.04434)." arXiv:1711.04434 (2017).
+  - Angela Fan, David Grangier, Michael Auli. "[Controllable Abstractive Summarization](https://arxiv.org/abs/1711.05217)." arXiv:1711.05217 (2017).
  
 ### Opinion Summarization
   - Wu, Haibing, Yiwei Gu, Shangdi Sun, and Xiaodong Gu. "[Aspect-based Opinion Summarization with Convolutional Neural Networks](http://arxiv.org/abs/1511.09128)." arXiv preprint arXiv:1511.09128 (2015).
