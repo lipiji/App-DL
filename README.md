@@ -17,6 +17,8 @@
 - Sha, Lei, Lili Mou, Tianyu Liu, Pascal Poupart, Sujian Li, Baobao Chang, and Zhifang Sui. "[Order-Planning Neural Text Generation From Structured Data](https://arxiv.org/abs/1709.00155)." arXiv preprint arXiv:1709.00155 (2017).
 - Jiaxian Guo, Sidi Lu, Han Cai, Weinan Zhang, Yong Yu, Jun Wang. "[Long Text Generation via Adversarial Training with Leaked Information](https://arxiv.org/abs/1709.08624)." arXiv preprint  arXiv:1709.08624 (2017).
 - Guu, Kelvin, Tatsunori B. Hashimoto, Yonatan Oren, and Percy Liang. "[Generating Sentences by Editing Prototypes](https://arxiv.org/abs/1709.08878)." arXiv preprint arXiv:1709.08878 (2017).
+- Tianyu Liu, Kexiang Wang, Lei Sha, Baobao Chang, Zhifang Sui. "[Table-to-text Generation by Structure-aware Seq2seq Learnings](https://arxiv.org/abs/1711.09724)." arXiv preprint arXiv:1711.09724 (2017).
+- Kahou, Samira Ebrahimi, Adam Atkinson, Vincent Michalski, Akos Kadar, Adam Trischler, and Yoshua Bengio. "[FigureQA: An Annotated Figure Dataset for Visual Reasoning](https://arxiv.org/abs/1710.07300)." arXiv preprint arXiv:1710.07300 (2017).
 
 ### Text Summarization
   - Ryang, Seonggi, and Takeshi Abekawa. "[Framework of automatic text summarization using reinforcement learning](http://dl.acm.org/citation.cfm?id=2390980)." In Proceedings of the 2012 Joint Conference on Empirical Methods in Natural Language Processing and Computational Natural Language Learning, pp. 256-265. Association for Computational Linguistics, 2012. [not neural-based methods]
