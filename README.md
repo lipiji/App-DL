@@ -14,6 +14,7 @@
 - Zhang, Li, Flood Sung, Feng Liu, Tao Xiang, Shaogang Gong, Yongxin Yang, and Timothy M. Hospedales. "[Actor-Critic Sequence Training for Image Captioning](https://arxiv.org/abs/1706.09601)." arXiv preprint arXiv:1706.09601 (2017).
 - Wiseman, Sam, Stuart M. Shieber, and Alexander M. Rush. "[Challenges in Data-to-Document Generation](https://arxiv.org/abs/1707.08052)." arXiv preprint arXiv:1707.08052 (2017).
 - Lebret, Rémi, David Grangier, and Michael Auli. "[Neural text generation from structured data with application to the biography domain](https://arxiv.org/abs/1603.07771)." arXiv preprint arXiv:1603.07771 (2016).
+- Chisholm, Andrew, Will Radford, and Ben Hachey. "[Learning to generate one-sentence biographies from Wikidata](https://arxiv.org/abs/1702.06235)." arXiv preprint arXiv:1702.06235 (2017).
 - Sha, Lei, Lili Mou, Tianyu Liu, Pascal Poupart, Sujian Li, Baobao Chang, and Zhifang Sui. "[Order-Planning Neural Text Generation From Structured Data](https://arxiv.org/abs/1709.00155)." arXiv preprint arXiv:1709.00155 (2017).
 - Jiaxian Guo, Sidi Lu, Han Cai, Weinan Zhang, Yong Yu, Jun Wang. "[Long Text Generation via Adversarial Training with Leaked Information](https://arxiv.org/abs/1709.08624)." arXiv preprint  arXiv:1709.08624 (2017).
 - Guu, Kelvin, Tatsunori B. Hashimoto, Yonatan Oren, and Percy Liang. "[Generating Sentences by Editing Prototypes](https://arxiv.org/abs/1709.08878)." arXiv preprint arXiv:1709.08878 (2017).
