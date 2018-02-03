@@ -82,6 +82,10 @@
   - Wu, Haibing, Yiwei Gu, Shangdi Sun, and Xiaodong Gu. "[Aspect-based Opinion Summarization with Convolutional Neural Networks](http://arxiv.org/abs/1511.09128)." arXiv preprint arXiv:1511.09128 (2015).
   - Irsoy, Ozan, and Claire Cardie. "[Opinion Mining with Deep Recurrent Neural Networks](http://anthology.aclweb.org/D/D14/D14-1080.pdf)." In EMNLP, pp. 720-728. 2014.
   - Piji Li, Zihao Wang, Zhaochun Ren, Lidong Bing, Wai Lam. "[Neural Rating Regression with Abstractive Tips Generation for Recommendation]().". In SIGIR, pp xx-xx. 2017.
+  
+### Video Summarization
+  - Zhou, Kaiyang, and Yu Qiao. "[Deep Reinforcement Learning for Unsupervised Video Summarization with Diversity-Representativeness Reward](https://arxiv.org/abs/1801.00054)." arXiv preprint arXiv:1801.00054 (2017). 
+  - Mahasseni, Behrooz, Michael Lam, and Sinisa Todorovic. "[Unsupervised video summarization with adversarial lstm networks](http://openaccess.thecvf.com/content_cvpr_2017/papers/Mahasseni_Unsupervised_Video_Summarization_CVPR_2017_paper.pdf)." In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR). 2017.
 
 ### Reading Comprehension
  - Hermann, Karl Moritz, Tomas Kocisky, Edward Grefenstette, Lasse Espeholt, Will Kay, Mustafa Suleyman, and Phil Blunsom. "[Teaching machines to read and comprehend](http://papers.nips.cc/paper/5945-teaching-machines-to-read-and-comprehend)." In Advances in Neural Information Processing Systems, pp. 1693-1701. 2015.
