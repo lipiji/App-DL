@@ -189,6 +189,7 @@
  - Mihaela Rosca, Balaji Lakshminarayanan, David Warde-Farley, Shakir Mohamed. "[Variational Approaches for Auto-Encoding Generative Adversarial Networks](https://arxiv.org/abs/1706.04987)." arXiv preprint arXiv:1706.04987 (2017).
  - Goyal, Prasoon, Zhiting Hu, Xiaodan Liang, Chenyu Wang, and Eric Xing. "[Nonparametric Variational Auto-encoders for Hierarchical Representation Learning](https://arxiv.org/pdf/1703.07027.pdf)." arXiv preprint arXiv:1703.07027 (2017).
  - Sabour, Sara, Nicholas Frosst, and Geoffrey Hinton. "[Dynamic Routing between Capsules](https://arxiv.org/abs/1710.09829)." (2017).
+ - Vaswani, Ashish, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Łukasz Kaiser, and Illia Polosukhin. "[Attention is all you need](http://papers.nips.cc/paper/7181-attention-is-all-you-need)." NIPS. 2017.
  
 ### Recommendation System
 - Salakhutdinov, Ruslan, Andriy Mnih, and Geoffrey Hinton. "[Restricted Boltzmann machines for collaborative filtering](http://dl.acm.org/citation.cfm?id=1273596)." In Proceedings of the 24th international conference on Machine learning, pp. 791-798. ACM, 2007.
