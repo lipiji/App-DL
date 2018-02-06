@@ -23,6 +23,7 @@
 - Murakami, Soichiro, Akihiko Watanabe, Akira Miyazawa, Keiichi Goshima, Toshihiko Yanase, Hiroya Takamura, and Yusuke Miyao. "[Learning to Generate Market Comments from Stock Prices](http://www.aclweb.org/anthology/P17-1126)." In Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), vol. 1, pp. 1374-1384. 2017.
 - Mueller, Jonas, David Gifford, and Tommi Jaakkola. "[Sequence to better sequence: continuous revision of combinatorial structures](http://proceedings.mlr.press/v70/mueller17a.html)." In International Conference on Machine Learning, pp. 2536-2544. 2017.
 - Peter J. Liu, Mohammad Saleh, Etienne Pot, Ben Goodrich, Ryan Sepassi, Lukasz Kaiser, Noam Shazeer. "[Generating Wikipedia by Summarizing Long Sequences](https://arxiv.org/abs/1801.10198)." ICLR 2018.
+- Clark, Elizabeth, Anne Spencer Ross, Chenhao Tan, Yangfeng Ji, and Noah A. Smith. "[Creative Writing with a Machine in the Loop: Case Studies on Slogans and Stories](https://homes.cs.washington.edu/~ansross/papers/iui2018-creativewriting.pdf)." (2018).
 
 ### Text Summarization
   - Ryang, Seonggi, and Takeshi Abekawa. "[Framework of automatic text summarization using reinforcement learning](http://dl.acm.org/citation.cfm?id=2390980)." In Proceedings of the 2012 Joint Conference on Empirical Methods in Natural Language Processing and Computational Natural Language Learning, pp. 256-265. Association for Computational Linguistics, 2012. [not neural-based methods]
