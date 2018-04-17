@@ -83,6 +83,8 @@
   - Narayan, Shashi, Shay B. Cohen, and Mirella Lapata. "[Ranking Sentences for Extractive Summarization with Reinforcement Learning](https://arxiv.org/abs/1802.08636)." arXiv preprint arXiv:1802.08636 (2018).
   - Asli Celikyilmaz, Antoine Bosselut, Xiaodong He, Yejin Choi. "[Deep Communicating Agents for Abstractive Summarization](https://arxiv.org/abs/1803.10357)." NAACL (2018).
   - Li, Piji, Lidong Bing, and Wai Lam. "[Actor-Critic based Training Framework for Abstractive Summarization](https://arxiv.org/abs/1803.11070)." arXiv preprint arXiv:1803.11070 (2018).
+  - Arman Cohan, Franck Dernoncourt, Doo Soon Kim, Trung Bui, Seokhwan Kim, Walter Chang, Nazli Goharian. "[
+A Discourse-Aware Attention Model for Abstractive Summarization of Long Documents](https://arxiv.org/abs/1804.05685)".  NAACL, 2018.
  
 ### Opinion Summarization
   - Wu, Haibing, Yiwei Gu, Shangdi Sun, and Xiaodong Gu. "[Aspect-based Opinion Summarization with Convolutional Neural Networks](http://arxiv.org/abs/1511.09128)." arXiv preprint arXiv:1511.09128 (2015).
