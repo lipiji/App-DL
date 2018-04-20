@@ -25,6 +25,8 @@
 - Peter J. Liu, Mohammad Saleh, Etienne Pot, Ben Goodrich, Ryan Sepassi, Lukasz Kaiser, Noam Shazeer. "[Generating Wikipedia by Summarizing Long Sequences](https://arxiv.org/abs/1801.10198)." ICLR 2018.
 - Clark, Elizabeth, Anne Spencer Ross, Chenhao Tan, Yangfeng Ji, and Noah A. Smith. "[Creative Writing with a Machine in the Loop: Case Studies on Slogans and Stories](https://homes.cs.washington.edu/~ansross/papers/iui2018-creativewriting.pdf)." (2018).
 - Gehrmann, Sebastian, S. E. A. S. Harvard, Falcon Z. Dai, Henry Elder, and Alexander M. Rush. "[End-to-End Content and Plan Selection for Natural Language Generation](https://scholar.harvard.edu/files/gehrmann/files/e2e-harvardnlp.pdf)."
+- Juncen Li, Robin Jia, He He, Percy Liang. "[Delete, Retrieve, Generate: A Simple Approach to Sentiment and Style Transfer](https://arxiv.org/abs/1804.06437)." arXiv:1804.06437 2018.
+- Yi Liao, Lidong Bing, Piji Li, Shuming Shi, Wai Lam, Tong Zhang. "[Incorporating Pseudo-Parallel Data for Quantifiable Sequence Editing](https://arxiv.org/abs/1804.07007)." arXiv:1804.07007 2018.
 
 ### Text Summarization
   - Ryang, Seonggi, and Takeshi Abekawa. "[Framework of automatic text summarization using reinforcement learning](http://dl.acm.org/citation.cfm?id=2390980)." In Proceedings of the 2012 Joint Conference on Empirical Methods in Natural Language Processing and Computational Natural Language Learning, pp. 256-265. Association for Computational Linguistics, 2012. [not neural-based methods]
@@ -85,6 +87,7 @@
   - Li, Piji, Lidong Bing, and Wai Lam. "[Actor-Critic based Training Framework for Abstractive Summarization](https://arxiv.org/abs/1803.11070)." arXiv preprint arXiv:1803.11070 (2018).
   - Arman Cohan, Franck Dernoncourt, Doo Soon Kim, Trung Bui, Seokhwan Kim, Walter Chang, Nazli Goharian. "[
 A Discourse-Aware Attention Model for Abstractive Summarization of Long Documents](https://arxiv.org/abs/1804.05685)".  NAACL, 2018.
+  - Yuxiang Wu, Baotian Hu. "[Learning to Extract Coherent Summary via Deep Reinforcement Learning](https://arxiv.org/abs/1804.07036)." AAAI (2018).
  
 ### Opinion Summarization
   - Wu, Haibing, Yiwei Gu, Shangdi Sun, and Xiaodong Gu. "[Aspect-based Opinion Summarization with Convolutional Neural Networks](http://arxiv.org/abs/1511.09128)." arXiv preprint arXiv:1511.09128 (2015).
