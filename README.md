@@ -27,6 +27,7 @@
 - Gehrmann, Sebastian, S. E. A. S. Harvard, Falcon Z. Dai, Henry Elder, and Alexander M. Rush. "[End-to-End Content and Plan Selection for Natural Language Generation](https://scholar.harvard.edu/files/gehrmann/files/e2e-harvardnlp.pdf)."
 - Juncen Li, Robin Jia, He He, Percy Liang. "[Delete, Retrieve, Generate: A Simple Approach to Sentiment and Style Transfer](https://arxiv.org/abs/1804.06437)." arXiv:1804.06437 2018.
 - Yi Liao, Lidong Bing, Piji Li, Shuming Shi, Wai Lam, Tong Zhang. "[Incorporating Pseudo-Parallel Data for Quantifiable Sequence Editing](https://arxiv.org/abs/1804.07007)." arXiv:1804.07007 2018.
+- Xin Wang, Wenhu Chen, Yuan-Fang Wang, William Yang Wang. "[No Metrics Are Perfect: Adversarial Reward Learning for Visual Storytelling](https://arxiv.org/abs/1804.09160)." arXiv:1804.09160 2018.
 
 ### Text Summarization
   - Ryang, Seonggi, and Takeshi Abekawa. "[Framework of automatic text summarization using reinforcement learning](http://dl.acm.org/citation.cfm?id=2390980)." In Proceedings of the 2012 Joint Conference on Empirical Methods in Natural Language Processing and Computational Natural Language Learning, pp. 256-265. Association for Computational Linguistics, 2012. [not neural-based methods]
@@ -84,6 +85,7 @@
   - Angela Fan, David Grangier, Michael Auli. "[Controllable Abstractive Summarization](https://arxiv.org/abs/1711.05217)." arXiv:1711.05217 (2017).
   - Narayan, Shashi, Shay B. Cohen, and Mirella Lapata. "[Ranking Sentences for Extractive Summarization with Reinforcement Learning](https://arxiv.org/abs/1802.08636)." arXiv preprint arXiv:1802.08636 (2018).
   - Asli Celikyilmaz, Antoine Bosselut, Xiaodong He, Yejin Choi. "[Deep Communicating Agents for Abstractive Summarization](https://arxiv.org/abs/1803.10357)." NAACL (2018).
+  - Chen, Wenhu, Guanlin Li, Shuo Ren, Shujie Liu, Zhirui Zhang, Mu Li, and Ming Zhou. "[Generative Bridging Network in Neural Sequence Prediction](https://arxiv.org/abs/1706.09152)." NAACL (2018).
   - Li, Piji, Lidong Bing, and Wai Lam. "[Actor-Critic based Training Framework for Abstractive Summarization](https://arxiv.org/abs/1803.11070)." arXiv preprint arXiv:1803.11070 (2018).
   - Arman Cohan, Franck Dernoncourt, Doo Soon Kim, Trung Bui, Seokhwan Kim, Walter Chang, Nazli Goharian. "[
 A Discourse-Aware Attention Model for Abstractive Summarization of Long Documents](https://arxiv.org/abs/1804.05685)".  NAACL, 2018.
