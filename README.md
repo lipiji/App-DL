@@ -91,7 +91,7 @@
 A Discourse-Aware Attention Model for Abstractive Summarization of Long Documents](https://arxiv.org/abs/1804.05685)".  NAACL, 2018.
   - Yuxiang Wu, Baotian Hu. "[Learning to Extract Coherent Summary via Deep Reinforcement Learning](https://arxiv.org/abs/1804.07036)." AAAI (2018).
   - Jianmin Zhang, Jiwei Tan, Xiaojun Wan. "[Towards a Neural Network Approach to Abstractive Multi-Document Summarization](https://arxiv.org/abs/1804.09010)." arXiv:1804.09010  (2018).
-  - Li Wang, Junlin Yao, Yunzhe Tao, Li Zhong, Wei Liu, Qiang Du. "[A Reinforced Topic-Aware Convolutional Sequence-to-Sequence Model for Abstractive Text Summarization](https://arxiv.org/abs/1805.03616)." IJCAI-ECAI  (2018).
+  - Li Wang, Junlin Yao, Yunzhe Tao, Li Zhong, Wei Liu, Qiang Du. "[A Reinforced Topic-Aware Convolutional Sequence-to-Sequence Model for Abstractive Text Summarization](https://arxiv.org/abs/1805.03616)." IJCAI-ECAI  (2018).
  
 ### Opinion Summarization
   - Wu, Haibing, Yiwei Gu, Shangdi Sun, and Xiaodong Gu. "[Aspect-based Opinion Summarization with Convolutional Neural Networks](http://arxiv.org/abs/1511.09128)." arXiv preprint arXiv:1511.09128 (2015).
