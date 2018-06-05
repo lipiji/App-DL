@@ -94,6 +94,7 @@ A Discourse-Aware Attention Model for Abstractive Summarization of Long Document
   - Li Wang, Junlin Yao, Yunzhe Tao, Li Zhong, Wei Liu, Qiang Du. "[A Reinforced Topic-Aware Convolutional Sequence-to-Sequence Model for Abstractive Text Summarization](https://arxiv.org/abs/1805.03616)." IJCAI-ECAI  (2018).
   - Yen-Chun Chen, Mohit Bansal. "[Fast Abstractive Summarization with Reinforce-Selected Sentence Rewriting
 ](https://arxiv.org/abs/1805.11080)." arXiv:1805.11080  (2018).
+  - Song, Kaiqiang, Lin Zhao, and Fei Liu. "[Structure-Infused Copy Mechanisms for Abstractive Summarization](http://www.cs.ucf.edu/~feiliu/papers/COLING2018_StructSumm.pdf)." COLING, 2018.
  
 ### Opinion Summarization
   - Wu, Haibing, Yiwei Gu, Shangdi Sun, and Xiaodong Gu. "[Aspect-based Opinion Summarization with Convolutional Neural Networks](http://arxiv.org/abs/1511.09128)." arXiv preprint arXiv:1511.09128 (2015).
