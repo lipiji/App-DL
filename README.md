@@ -7,6 +7,7 @@
  - Bahdanau, Dzmitry, Philemon Brakel, Kelvin Xu, Anirudh Goyal, Ryan Lowe, Joelle Pineau, Aaron Courville, and Yoshua Bengio. "[An Actor-Critic Algorithm for Sequence Prediction](http://arxiv.org/abs/1607.07086)." arXiv preprint arXiv:1607.07086 (2016).
  - Li, Jiwei, Will Monroe, Alan Ritter, and Dan Jurafsky. "[Deep Reinforcement Learning for Dialogue Generation](http://arxiv.org/abs/1606.01541)." arXiv preprint arXiv:1606.01541 (2016).
  - Pathak, Deepak, Pulkit Agrawal, Alexei A. Efros, and Trevor Darrell. "[Curiosity-driven Exploration by Self-supervised Prediction](https://arxiv.org/abs/1705.05363)." arXiv preprint arXiv:1705.05363 (2017).
+ - Keneshloo, Yaser, Tian Shi, Chandan K. Reddy, and Naren Ramakrishnan. "[Deep Reinforcement Learning For Sequence to Sequence Models](https://arxiv.org/abs/1805.09461)." arXiv preprint arXiv:1805.09461 (2018).
 
 ### Text Generation
 - Rennie, Steven J., Etienne Marcheret, Youssef Mroueh, Jarret Ross, and Vaibhava Goel. "[Self-critical sequence training for image captioning](https://arxiv.org/abs/1612.00563)." arXiv preprint arXiv:1612.00563 (2016).
