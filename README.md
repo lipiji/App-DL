@@ -97,6 +97,8 @@ A Discourse-Aware Attention Model for Abstractive Summarization of Long Document
 ](https://arxiv.org/abs/1805.11080)." arXiv:1805.11080  (2018).
   - Song, Kaiqiang, Lin Zhao, and Fei Liu. "[Structure-Infused Copy Mechanisms for Abstractive Summarization](http://www.cs.ucf.edu/~feiliu/papers/COLING2018_StructSumm.pdf)." COLING, 2018.
   - Keneshloo, Yaser, Tian Shi, Chandan K. Reddy, and Naren Ramakrishnan. "[Deep Reinforcement Learning For Sequence to Sequence Models](https://arxiv.org/abs/1805.09461)." arXiv preprint arXiv:1805.09461 (2018).
+  - Qingyu Zhou, Nan Yang, Furu Wei, Ming Zhou. "[Sequential Copying Networks](https://arxiv.org/abs/1807.02301)." AAAI (2018).
+  - Qingyu Zhou, Nan Yang, Furu Wei, Shaohan Huang, Ming Zhou, Tiejun Zhao. "[Neural Document Summarization by Jointly Learning to Score and Select Sentences](https://arxiv.org/abs/1807.02305)." ACL (2018).
  
 ### Opinion Summarization
   - Wu, Haibing, Yiwei Gu, Shangdi Sun, and Xiaodong Gu. "[Aspect-based Opinion Summarization with Convolutional Neural Networks](http://arxiv.org/abs/1511.09128)." arXiv preprint arXiv:1511.09128 (2015).
