@@ -9,6 +9,8 @@
  - Pathak, Deepak, Pulkit Agrawal, Alexei A. Efros, and Trevor Darrell. "[Curiosity-driven Exploration by Self-supervised Prediction](https://arxiv.org/abs/1705.05363)." arXiv preprint arXiv:1705.05363 (2017).
  - Keneshloo, Yaser, Tian Shi, Chandan K. Reddy, and Naren Ramakrishnan. "[Deep Reinforcement Learning For Sequence to Sequence Models](https://arxiv.org/abs/1805.09461)." arXiv preprint arXiv:1805.09461 (2018).
 
+### Task-Oriented Dialogue
+
 ### Text Generation
 - Rennie, Steven J., Etienne Marcheret, Youssef Mroueh, Jarret Ross, and Vaibhava Goel. "[Self-critical sequence training for image captioning](https://arxiv.org/abs/1612.00563)." arXiv preprint arXiv:1612.00563 (2016).
 - Lin, Kevin, Dianqi Li, Xiaodong He, Zhengyou Zhang, and Ming-Ting Sun. "[Adversarial Ranking for Language Generation](https://arxiv.org/pdf/1705.11001.pdf)." arXiv preprint arXiv:1705.11001 (2017).
