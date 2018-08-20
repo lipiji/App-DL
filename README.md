@@ -102,11 +102,12 @@ A Discourse-Aware Attention Model for Abstractive Summarization of Long Document
   - Qingyu Zhou, Nan Yang, Furu Wei, Ming Zhou. "[Sequential Copying Networks](https://arxiv.org/abs/1807.02301)." AAAI (2018).
   - Qingyu Zhou, Nan Yang, Furu Wei, Shaohan Huang, Ming Zhou, Tiejun Zhao. "[Neural Document Summarization by Jointly Learning to Score and Select Sentences](https://arxiv.org/abs/1807.02305)." ACL (2018).
   - Khatri, Chandra, Gyanit Singh, and Nish Parikh. "[Abstractive and Extractive Text Summarization using Document Context Vector and Recurrent Neural Networks](https://arxiv.org/abs/1807.08000)." arXiv preprint arXiv:1807.08000 (2018).
+  - Hsu, Wan-Ting, Chieh-Kai Lin, Ming-Ying Lee, Kerui Min, Jing Tang, and Min Sun. "[A Unified Model for Extractive and Abstractive Summarization using Inconsistency Loss](https://arxiv.org/abs/1805.06266)." arXiv preprint arXiv:1805.06266 (2018).
  
 ### Opinion Summarization
   - Wu, Haibing, Yiwei Gu, Shangdi Sun, and Xiaodong Gu. "[Aspect-based Opinion Summarization with Convolutional Neural Networks](http://arxiv.org/abs/1511.09128)." arXiv preprint arXiv:1511.09128 (2015).
   - Irsoy, Ozan, and Claire Cardie. "[Opinion Mining with Deep Recurrent Neural Networks](http://anthology.aclweb.org/D/D14/D14-1080.pdf)." In EMNLP, pp. 720-728. 2014.
-  - Piji Li, Zihao Wang, Zhaochun Ren, Lidong Bing, Wai Lam. "[Neural Rating Regression with Abstractive Tips Generation for Recommendation]().". In SIGIR, 2017.
+  - Piji Li, Zihao Wang, Zhaochun Ren, Lidong Bing, Wai Lam. "[Neural Rating Regression with Abstractive Tips Generation for Recommendation](https://arxiv.org/abs/1708.00154).". In SIGIR, 2017.
   
 ### Video Summarization
   - Zhou, Kaiyang, and Yu Qiao. "[Deep Reinforcement Learning for Unsupervised Video Summarization with Diversity-Representativeness Reward](https://arxiv.org/abs/1801.00054)." arXiv preprint arXiv:1801.00054 (2017). 
