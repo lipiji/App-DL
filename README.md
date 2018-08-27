@@ -10,6 +10,12 @@
  - Keneshloo, Yaser, Tian Shi, Chandan K. Reddy, and Naren Ramakrishnan. "[Deep Reinforcement Learning For Sequence to Sequence Models](https://arxiv.org/abs/1805.09461)." arXiv preprint arXiv:1805.09461 (2018).
 
 ### Task-Oriented Dialogue
+- Wen, Tsung-Hsien, David Vandyke, Nikola Mrksic, Milica Gasic, Lina M. Rojas-Barahona, Pei-Hao Su, Stefan Ultes, and Steve Young. "[A network-based end-to-end trainable task-oriented dialogue system](https://arxiv.org/abs/1604.04562)." arXiv preprint arXiv:1604.04562 (2016).
+- Li, Xiujun, Yun-Nung Chen, Lihong Li, Jianfeng Gao, and Asli Celikyilmaz. "[End-to-end task-completion neural dialogue systems](https://arxiv.org/abs/1703.01008)." arXiv preprint arXiv:1703.01008 (2017).
+- Li, Xiujun, Zachary C. Lipton, Bhuwan Dhingra, Lihong Li, Jianfeng Gao, and Yun-Nung Chen. "[A user simulator for task-completion dialogues](https://arxiv.org/abs/1612.05688)." arXiv preprint arXiv:1612.05688 (2016).
+- Yan, Zhao, Nan Duan, Peng Chen, Ming Zhou, Jianshe Zhou, and Zhoujun Li. "[Building Task-Oriented Dialogue Systems for Online Shopping](http://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/viewPaper/14261)." In AAAI, pp. 4618-4626. 2017.
+- Peng, Baolin, Xiujun Li, Jianfeng Gao, Jingjing Liu, and Kam-Fai Wong. "[Deep Dyna-Q: Integrating Planning for Task-Completion Dialogue Policy Learning](http://www.aclweb.org/anthology/P18-1203)." ACL, vol. 1, pp. 2182-2192. 2018.
+
 
 ### Text Generation
 - Rennie, Steven J., Etienne Marcheret, Youssef Mroueh, Jarret Ross, and Vaibhava Goel. "[Self-critical sequence training for image captioning](https://arxiv.org/abs/1612.00563)." arXiv preprint arXiv:1612.00563 (2016).
