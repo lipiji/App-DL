@@ -92,6 +92,7 @@
   - Ling, Jeffrey, and Alexander M. Rush. "[Coarse-to-Fine Attention Models for Document Summarization](http://www.aclweb.org/anthology/W/W17/W17-4505.pdf)." EMNLP 2017 (2017): 33.
   - Ziqiang Cao, Furu Wei, Wenjie Li, Sujian Li. "[Faithful to the Original: Fact Aware Neural Abstractive Summarization](https://arxiv.org/abs/1711.04434)." arXiv:1711.04434 (2017).
   - Angela Fan, David Grangier, Michael Auli. "[Controllable Abstractive Summarization](https://arxiv.org/abs/1711.05217)." arXiv:1711.05217 (2017).
+  - Liu, Linqing, Yao Lu, Min Yang, Qiang Qu, Jia Zhu, and Hongyan Li. "[Generative Adversarial Network for Abstractive Text Summarization](https://arxiv.org/pdf/1711.09357.pdf)." arXiv preprint arXiv:1711.09357 (2017).
   - Narayan, Shashi, Shay B. Cohen, and Mirella Lapata. "[Ranking Sentences for Extractive Summarization with Reinforcement Learning](https://arxiv.org/abs/1802.08636)." arXiv preprint arXiv:1802.08636 (2018).
   - Asli Celikyilmaz, Antoine Bosselut, Xiaodong He, Yejin Choi. "[Deep Communicating Agents for Abstractive Summarization](https://arxiv.org/abs/1803.10357)." NAACL (2018).
   - Chen, Wenhu, Guanlin Li, Shuo Ren, Shujie Liu, Zhirui Zhang, Mu Li, and Ming Zhou. "[Generative Bridging Network in Neural Sequence Prediction](https://arxiv.org/abs/1706.09152)." NAACL (2018).
