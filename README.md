@@ -113,7 +113,7 @@ A Discourse-Aware Attention Model for Abstractive Summarization of Long Document
   - Sun, Fei, Peng Jiang, Hanxiao Sun, Changhua Pei, Wenwu Ou, and Xiaobo Wang. "[Multi-Source Pointer Network for Product Title Summarization](https://arxiv.org/abs/1808.06885)." arXiv preprint arXiv:1808.06885 (2018).
   - Wojciech Kryściński, Romain Paulus, Caiming Xiong, Richard Socher. "[Improving Abstraction in Text Summarization
 ](https://arxiv.org/abs/1808.07913)." arXiv preprint arXiv:1808.07913 (2018).
-  
+- Zhang, Xingxing, Mirella Lapata, Furu Wei, and Ming Zhou. "[Neural Latent Extractive Document Summarization](https://arxiv.org/abs/1808.09442)." arXiv preprint arXiv:1808.07187 (2018).
  
 ### Opinion Summarization
   - Wu, Haibing, Yiwei Gu, Shangdi Sun, and Xiaodong Gu. "[Aspect-based Opinion Summarization with Convolutional Neural Networks](http://arxiv.org/abs/1511.09128)." arXiv preprint arXiv:1511.09128 (2015).
