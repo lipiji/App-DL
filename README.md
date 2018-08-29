@@ -108,12 +108,13 @@ A Discourse-Aware Attention Model for Abstractive Summarization of Long Document
   - Keneshloo, Yaser, Tian Shi, Chandan K. Reddy, and Naren Ramakrishnan. "[Deep Reinforcement Learning For Sequence to Sequence Models](https://arxiv.org/abs/1805.09461)." arXiv preprint arXiv:1805.09461 (2018).
   - Qingyu Zhou, Nan Yang, Furu Wei, Ming Zhou. "[Sequential Copying Networks](https://arxiv.org/abs/1807.02301)." AAAI (2018).
   - Qingyu Zhou, Nan Yang, Furu Wei, Shaohan Huang, Ming Zhou, Tiejun Zhao. "[Neural Document Summarization by Jointly Learning to Score and Select Sentences](https://arxiv.org/abs/1807.02305)." ACL (2018).
+  - Lin, Junyang, Xu Sun, Shuming Ma, and Qi Su. "[Global Encoding for Abstractive Summarization](https://arxiv.org/abs/1805.03989)." arXiv preprint arXiv:1805.03989 (2018).
   - Khatri, Chandra, Gyanit Singh, and Nish Parikh. "[Abstractive and Extractive Text Summarization using Document Context Vector and Recurrent Neural Networks](https://arxiv.org/abs/1807.08000)." arXiv preprint arXiv:1807.08000 (2018).
   - Hsu, Wan-Ting, Chieh-Kai Lin, Ming-Ying Lee, Kerui Min, Jing Tang, and Min Sun. "[A Unified Model for Extractive and Abstractive Summarization using Inconsistency Loss](https://arxiv.org/abs/1805.06266)." arXiv preprint arXiv:1805.06266 (2018).
   - Sun, Fei, Peng Jiang, Hanxiao Sun, Changhua Pei, Wenwu Ou, and Xiaobo Wang. "[Multi-Source Pointer Network for Product Title Summarization](https://arxiv.org/abs/1808.06885)." arXiv preprint arXiv:1808.06885 (2018).
   - Wojciech Kryściński, Romain Paulus, Caiming Xiong, Richard Socher. "[Improving Abstraction in Text Summarization
 ](https://arxiv.org/abs/1808.07913)." arXiv preprint arXiv:1808.07913 (2018).
-- Zhang, Xingxing, Mirella Lapata, Furu Wei, and Ming Zhou. "[Neural Latent Extractive Document Summarization](https://arxiv.org/abs/1808.09442)." arXiv preprint arXiv:1808.07187 (2018).
+  - Zhang, Xingxing, Mirella Lapata, Furu Wei, and Ming Zhou. "[Neural Latent Extractive Document Summarization](https://arxiv.org/abs/1808.09442)." arXiv preprint arXiv:1808.07187 (2018).
  
 ### Opinion Summarization
   - Wu, Haibing, Yiwei Gu, Shangdi Sun, and Xiaodong Gu. "[Aspect-based Opinion Summarization with Convolutional Neural Networks](http://arxiv.org/abs/1511.09128)." arXiv preprint arXiv:1511.09128 (2015).
