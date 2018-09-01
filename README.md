@@ -9,13 +9,14 @@
  - Pathak, Deepak, Pulkit Agrawal, Alexei A. Efros, and Trevor Darrell. "[Curiosity-driven Exploration by Self-supervised Prediction](https://arxiv.org/abs/1705.05363)." arXiv preprint arXiv:1705.05363 (2017).
  - Keneshloo, Yaser, Tian Shi, Chandan K. Reddy, and Naren Ramakrishnan. "[Deep Reinforcement Learning For Sequence to Sequence Models](https://arxiv.org/abs/1805.09461)." arXiv preprint arXiv:1805.09461 (2018).
 
+
 ### Task-Oriented Dialogue
 - Wen, Tsung-Hsien, David Vandyke, Nikola Mrksic, Milica Gasic, Lina M. Rojas-Barahona, Pei-Hao Su, Stefan Ultes, and Steve Young. "[A network-based end-to-end trainable task-oriented dialogue system](https://arxiv.org/abs/1604.04562)." arXiv preprint arXiv:1604.04562 (2016).
 - Li, Xiujun, Yun-Nung Chen, Lihong Li, Jianfeng Gao, and Asli Celikyilmaz. "[End-to-end task-completion neural dialogue systems](https://arxiv.org/abs/1703.01008)." arXiv preprint arXiv:1703.01008 (2017).
 - Li, Xiujun, Zachary C. Lipton, Bhuwan Dhingra, Lihong Li, Jianfeng Gao, and Yun-Nung Chen. "[A user simulator for task-completion dialogues](https://arxiv.org/abs/1612.05688)." arXiv preprint arXiv:1612.05688 (2016).
 - Yan, Zhao, Nan Duan, Peng Chen, Ming Zhou, Jianshe Zhou, and Zhoujun Li. "[Building Task-Oriented Dialogue Systems for Online Shopping](http://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/viewPaper/14261)." In AAAI, pp. 4618-4626. 2017.
 - Peng, Baolin, Xiujun Li, Jianfeng Gao, Jingjing Liu, and Kam-Fai Wong. "[Deep Dyna-Q: Integrating Planning for Task-Completion Dialogue Policy Learning](http://www.aclweb.org/anthology/P18-1203)." ACL, vol. 1, pp. 2182-2192. 2018.
-
+- Janarthanan Rajendran, Jatin Ganhotra, Satinder Singh, Lazaros Polymenakos. "[Learning End-to-End Goal-Oriented Dialog with Multiple Answers](https://arxiv.org/abs/1808.09996)." arXiv preprint arXiv:1808.09996 (2018).
 
 ### Text Generation
 - Rennie, Steven J., Etienne Marcheret, Youssef Mroueh, Jarret Ross, and Vaibhava Goel. "[Self-critical sequence training for image captioning](https://arxiv.org/abs/1612.00563)." arXiv preprint arXiv:1612.00563 (2016).
@@ -37,6 +38,9 @@
 - Juncen Li, Robin Jia, He He, Percy Liang. "[Delete, Retrieve, Generate: A Simple Approach to Sentiment and Style Transfer](https://arxiv.org/abs/1804.06437)." arXiv:1804.06437 2018.
 - Yi Liao, Lidong Bing, Piji Li, Shuming Shi, Wai Lam, Tong Zhang. "[Incorporating Pseudo-Parallel Data for Quantifiable Sequence Editing](https://arxiv.org/abs/1804.07007)." arXiv:1804.07007 2018.
 - Xin Wang, Wenhu Chen, Yuan-Fang Wang, William Yang Wang. "[No Metrics Are Perfect: Adversarial Reward Learning for Visual Storytelling](https://arxiv.org/abs/1804.09160)." arXiv:1804.09160 2018.
+- Sam Wiseman, Stuart M. Shieber, Alexander M. Rush. "[Learning Neural Templates for Text Generation
+](https://arxiv.org/abs/1808.10122)." arXiv:1808.10122 2018.
+
 
 ### Text Summarization
   - Ryang, Seonggi, and Takeshi Abekawa. "[Framework of automatic text summarization using reinforcement learning](http://dl.acm.org/citation.cfm?id=2390980)." In Proceedings of the 2012 Joint Conference on Empirical Methods in Natural Language Processing and Computational Natural Language Learning, pp. 256-265. Association for Computational Linguistics, 2012. [not neural-based methods]
