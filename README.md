@@ -1,7 +1,7 @@
 ### Startups
   - [机器学习、深度学习、计算机视觉、大数据创业公司 - Startups in AI](https://github.com/lipiji/AIStartups)
 
-###  Deep Reinforcement Learning
+##  Deep Reinforcement Learning
  - David Silver. "[Tutorial: Deep Reinforcement Learning](http://icml.cc/2016/tutorials/deep_rl_tutorial.pdf)." ICML 2016.
  - David Silver’s course. "[Reinforcement Learning](http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Teaching.html)". 2015.
  - Bahdanau, Dzmitry, Philemon Brakel, Kelvin Xu, Anirudh Goyal, Ryan Lowe, Joelle Pineau, Aaron Courville, and Yoshua Bengio. "[An Actor-Critic Algorithm for Sequence Prediction](http://arxiv.org/abs/1607.07086)." arXiv preprint arXiv:1607.07086 (2016).
@@ -9,8 +9,10 @@
  - Pathak, Deepak, Pulkit Agrawal, Alexei A. Efros, and Trevor Darrell. "[Curiosity-driven Exploration by Self-supervised Prediction](https://arxiv.org/abs/1705.05363)." arXiv preprint arXiv:1705.05363 (2017).
  - Keneshloo, Yaser, Tian Shi, Chandan K. Reddy, and Naren Ramakrishnan. "[Deep Reinforcement Learning For Sequence to Sequence Models](https://arxiv.org/abs/1805.09461)." arXiv preprint arXiv:1805.09461 (2018).
 
+## Dialogue System
+- Jiang, Shaojie, and Maarten de Rijke. "[Why are Sequence-to-Sequence Models So Dull?](https://staff.fnwi.uva.nl/m.derijke/wp-content/papercite-data/pdf/jiang-why-2018.pdf)." report, 2018.
 
-### Task-Oriented Dialogue
+#### Task-Oriented Dialogue
 - Wen, Tsung-Hsien, David Vandyke, Nikola Mrksic, Milica Gasic, Lina M. Rojas-Barahona, Pei-Hao Su, Stefan Ultes, and Steve Young. "[A network-based end-to-end trainable task-oriented dialogue system](https://arxiv.org/abs/1604.04562)." arXiv preprint arXiv:1604.04562 (2016).
 - Li, Xiujun, Yun-Nung Chen, Lihong Li, Jianfeng Gao, and Asli Celikyilmaz. "[End-to-end task-completion neural dialogue systems](https://arxiv.org/abs/1703.01008)." arXiv preprint arXiv:1703.01008 (2017).
 - Li, Xiujun, Zachary C. Lipton, Bhuwan Dhingra, Lihong Li, Jianfeng Gao, and Yun-Nung Chen. "[A user simulator for task-completion dialogues](https://arxiv.org/abs/1612.05688)." arXiv preprint arXiv:1612.05688 (2016).
@@ -18,7 +20,7 @@
 - Peng, Baolin, Xiujun Li, Jianfeng Gao, Jingjing Liu, and Kam-Fai Wong. "[Deep Dyna-Q: Integrating Planning for Task-Completion Dialogue Policy Learning](http://www.aclweb.org/anthology/P18-1203)." ACL, vol. 1, pp. 2182-2192. 2018.
 - Janarthanan Rajendran, Jatin Ganhotra, Satinder Singh, Lazaros Polymenakos. "[Learning End-to-End Goal-Oriented Dialog with Multiple Answers](https://arxiv.org/abs/1808.09996)." arXiv preprint arXiv:1808.09996 (2018).
 
-### Text Generation
+## Text Generation
 - Rennie, Steven J., Etienne Marcheret, Youssef Mroueh, Jarret Ross, and Vaibhava Goel. "[Self-critical sequence training for image captioning](https://arxiv.org/abs/1612.00563)." arXiv preprint arXiv:1612.00563 (2016).
 - Lin, Kevin, Dianqi Li, Xiaodong He, Zhengyou Zhang, and Ming-Ting Sun. "[Adversarial Ranking for Language Generation](https://arxiv.org/pdf/1705.11001.pdf)." arXiv preprint arXiv:1705.11001 (2017).
 - Zhang, Li, Flood Sung, Feng Liu, Tao Xiang, Shaogang Gong, Yongxin Yang, and Timothy M. Hospedales. "[Actor-Critic Sequence Training for Image Captioning](https://arxiv.org/abs/1706.09601)." arXiv preprint arXiv:1706.09601 (2017).
@@ -42,7 +44,7 @@
 ](https://arxiv.org/abs/1808.10122)." arXiv:1808.10122 2018.
 
 
-### Text Summarization
+## Text Summarization
   - Ryang, Seonggi, and Takeshi Abekawa. "[Framework of automatic text summarization using reinforcement learning](http://dl.acm.org/citation.cfm?id=2390980)." In Proceedings of the 2012 Joint Conference on Empirical Methods in Natural Language Processing and Computational Natural Language Learning, pp. 256-265. Association for Computational Linguistics, 2012. [not neural-based methods]
   - King, Ben, Rahul Jha, Tyler Johnson, Vaishnavi Sundararajan, and Clayton Scott. "[Experiments in Automatic Text Summarization Using Deep Neural Networks](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.459.8775&rep=rep1&type=pdf)." Machine Learning (2011).
   - Liu, Yan, Sheng-hua Zhong, and Wenjie Li. "[Query-Oriented Multi-Document Summarization via Unsupervised Deep Learning](http://www.aaai.org/ocs/index.php/AAAI/AAAI12/paper/view/5058/5322)." AAAI. 2012.
