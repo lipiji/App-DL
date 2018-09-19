@@ -121,6 +121,8 @@ A Discourse-Aware Attention Model for Abstractive Summarization of Long Document
   - Zhang, Xingxing, Mirella Lapata, Furu Wei, and Ming Zhou. "[Neural Latent Extractive Document Summarization](https://arxiv.org/abs/1808.07187)." arXiv preprint arXiv:1808.07187 (2018).
   - Sebastian Gehrmann, Yuntian Deng, Alexander M. Rush. "[Bottom-Up Abstractive Summarization](https://arxiv.org/abs/1808.10792)." arXiv preprint arXiv:1808.10792 (2018).
   - Yichen Jiang, Mohit Bansal. "[Closed-Book Training to Improve Summarization Encoder Memory](https://arxiv.org/abs/1809.04585)." arXiv preprint arXiv:1809.04585 (2018).
+  - Kamal Al-Sabahi, Zhang Zuping, Yang Kang. "[Bidirectional Attentional Encoder-Decoder Model and Bidirectional Beam Search for Abstractive Summarization](https://arxiv.org/abs/1809.06662)." arXiv preprint arXiv:1809.06662 (2018).
+  - Raphael Schumann. "[Unsupervised Abstractive Sentence Summarization using Length Controlled Variational Autoencoder](https://arxiv.org/abs/1809.05233)." arXiv preprint arXiv:1809.05233 (2018).
 
  
 ### Opinion Summarization
