@@ -128,7 +128,7 @@ A Discourse-Aware Attention Model for Abstractive Summarization of Long Document
   - Krishna, Kundan, and Balaji Vasan Srinivasan. "[Generating Topic-Oriented Summaries Using Neural Attention](http://www.aclweb.org/anthology/N18-1153)." NAACL 2018.
   - Lisa Fan, Dong Yu, Lu Wang. "[Robust Neural Abstractive Summarization Systems and Evaluation against Adversarial Information](https://arxiv.org/abs/1810.06065)." arXiv preprint arXiv:1810.06065 (2018).
   - Eric Chu, Peter J. Liu. "[Unsupervised Neural Multi-document Abstractive Summarization](https://arxiv.org/abs/1810.05739)." arXiv preprint arXiv:1810.05739 (2018).
-
+  - Yaser Keneshloo, Naren Ramakrishnan, Chandan K. Reddy. "[Deep Transfer Reinforcement Learning for Text Summarization](https://arxiv.org/abs/1810.06667)." arXiv preprint arXiv:1810.06667 (2018).
  
 ### Opinion Summarization
   - Wu, Haibing, Yiwei Gu, Shangdi Sun, and Xiaodong Gu. "[Aspect-based Opinion Summarization with Convolutional Neural Networks](http://arxiv.org/abs/1511.09128)." arXiv preprint arXiv:1511.09128 (2015).
