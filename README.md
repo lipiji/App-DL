@@ -11,6 +11,8 @@
 
 ## Dialogue System
 - Jiang, Shaojie, and Maarten de Rijke. "[Why are Sequence-to-Sequence Models So Dull?](https://staff.fnwi.uva.nl/m.derijke/wp-content/papercite-data/pdf/jiang-why-2018.pdf)." report, 2018.
+- Eric Chu, Prashanth Vijayaraghavan, Deb Roy. "[Learning Personas from Dialogue with Attentive Memory Networks](https://arxiv.org/abs/1810.08717)." EMNLP (2018).
+- Ruizhe Li, Chenghua Lin, Matthew Collinson, Xiao Li, Guanyi Chen. "[A Dual-Attention Hierarchical Recurrent Neural Network for Dialogue Act Classification](https://arxiv.org/abs/1810.09154)."  arXiv:1810.09154 (2018).
 
 #### Task-Oriented Dialogue
 - Wen, Tsung-Hsien, David Vandyke, Nikola Mrksic, Milica Gasic, Lina M. Rojas-Barahona, Pei-Hao Su, Stefan Ultes, and Steve Young. "[A network-based end-to-end trainable task-oriented dialogue system](https://arxiv.org/abs/1604.04562)." arXiv preprint arXiv:1604.04562 (2016).
@@ -129,6 +131,8 @@ A Discourse-Aware Attention Model for Abstractive Summarization of Long Document
   - Lisa Fan, Dong Yu, Lu Wang. "[Robust Neural Abstractive Summarization Systems and Evaluation against Adversarial Information](https://arxiv.org/abs/1810.06065)." arXiv preprint arXiv:1810.06065 (2018).
   - Eric Chu, Peter J. Liu. "[Unsupervised Neural Multi-document Abstractive Summarization](https://arxiv.org/abs/1810.05739)." arXiv preprint arXiv:1810.05739 (2018).
   - Yaser Keneshloo, Naren Ramakrishnan, Chandan K. Reddy. "[Deep Transfer Reinforcement Learning for Text Summarization](https://arxiv.org/abs/1810.06667)." arXiv preprint arXiv:1810.06667 (2018).
+  - Mahnaz Koupaee, William Yang Wang. "[WikiHow: A Large Scale Text Summarization Dataset
+](https://arxiv.org/abs/1810.09305)." arXiv preprint arXiv:1810.09305 (2018).
  
 ### Opinion Summarization
   - Wu, Haibing, Yiwei Gu, Shangdi Sun, and Xiaodong Gu. "[Aspect-based Opinion Summarization with Convolutional Neural Networks](http://arxiv.org/abs/1511.09128)." arXiv preprint arXiv:1511.09128 (2015).
