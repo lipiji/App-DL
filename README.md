@@ -133,6 +133,7 @@ A Discourse-Aware Attention Model for Abstractive Summarization of Long Document
   - Yaser Keneshloo, Naren Ramakrishnan, Chandan K. Reddy. "[Deep Transfer Reinforcement Learning for Text Summarization](https://arxiv.org/abs/1810.06667)." arXiv preprint arXiv:1810.06667 (2018).
   - Mahnaz Koupaee, William Yang Wang. "[WikiHow: A Large Scale Text Summarization Dataset
 ](https://arxiv.org/abs/1810.09305)." arXiv preprint arXiv:1810.09305 (2018).
+  - Li Dong, Nan Yang, Wenhui Wang, Furu Wei, Xiaodong Liu, Yu Wang, Jianfeng Gao, Ming Zhou, Hsiao-Wuen Hon. "[Unified Language Model Pre-training for Natural Language Understanding and Generation](https://arxiv.org/abs/1905.03197)." arXiv preprint arXiv:1905.03197 (2019).
  
 ### Opinion Summarization
   - Wu, Haibing, Yiwei Gu, Shangdi Sun, and Xiaodong Gu. "[Aspect-based Opinion Summarization with Convolutional Neural Networks](http://arxiv.org/abs/1511.09128)." arXiv preprint arXiv:1511.09128 (2015).
