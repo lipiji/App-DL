@@ -247,6 +247,12 @@ A Discourse-Aware Attention Model for Abstractive Summarization of Long Document
  - Sabour, Sara, Nicholas Frosst, and Geoffrey Hinton. "[Dynamic Routing between Capsules](https://arxiv.org/abs/1710.09829)." (2017).
  - Vaswani, Ashish, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Łukasz Kaiser, and Illia Polosukhin. "[Attention is all you need](http://papers.nips.cc/paper/7181-attention-is-all-you-need)." NIPS. 2017.
  
+#### Architecture Search
+- Frankle, Jonathan, and Michael Carbin. "The lottery ticket hypothesis: Finding sparse, trainable neural networks." arXiv preprint arXiv:1803.03635 (2018).
+- Xie, Saining, Alexander Kirillov, Ross Girshick, and Kaiming He. "Exploring Randomly Wired Neural Networks for Image Recognition." arXiv preprint arXiv:1904.01569 (2019).
+- So, David R., Chen Liang, and Quoc V. Le. "The Evolved Transformer." arXiv preprint arXiv:1901.11117 (2019).
+- Chenguang Wang, Mu Li, Alexander J. Smola. "Language Models with Transformers." arXiv preprint arXiv:1904.09408 (2019).
+ 
 ### Recommendation System
 - Salakhutdinov, Ruslan, Andriy Mnih, and Geoffrey Hinton. "[Restricted Boltzmann machines for collaborative filtering](http://dl.acm.org/citation.cfm?id=1273596)." In Proceedings of the 24th international conference on Machine learning, pp. 791-798. ACM, 2007.
 - Wang, Hao, Xingjian Shi, and Dit-Yan Yeung. "[Relational Stacked Denoising Autoencoder for Tag Recommendation](http://www.wanghao.in/paper/AAAI15_RSDAE.pdf)." In AAAI, pp. 3052-3058. 2015.
